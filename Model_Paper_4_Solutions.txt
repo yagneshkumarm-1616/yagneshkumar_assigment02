@@ -1,0 +1,541 @@
+==========================================================================================
+MODEL PAPER 4 - DETAILED SOLUTIONS
+==========================================================================================
+
+Q17. Identify error: He have completed his work
+Topic: Subject-Verb Agreement | Difficulty: Medium
+Category: English
+
+Options:
+    A) He
+  ✓ B) have
+    C) completed
+    D) No error
+
+Correct Answer: have
+
+Explanation:
+Subject 'He' is singular, so use 'has' not 'have'
+Correct: He has completed his work
+------------------------------------------------------------------------------------------
+
+Q31. A sum becomes 4/3 of itself in 5 years at simple interest. What is rate of interest?
+Topic: Simple Interest - Advanced | Difficulty: Hard
+Category: Quantitative Aptitude
+
+Options:
+  ✓ A) 6.67%
+    B) 10%
+    C) 20%
+    D) 25%
+
+Correct Answer: 6.67%
+
+Explanation:
+SI = 4/3 P - P = 1/3 P
+SI = P×R×T/100
+1/3 P = P×R×5/100
+R = 100/15 = 6.67%
+------------------------------------------------------------------------------------------
+
+Q28. Which is the longest river in India?
+Topic: Indian Geography | Difficulty: Medium
+Category: General Awareness
+
+Options:
+    A) Godavari
+    B) Brahmaputra
+  ✓ C) Ganga
+    D) Sutlej
+
+Correct Answer: Ganga
+
+Explanation:
+The Ganga is the longest river in India, approximately 2525 km
+------------------------------------------------------------------------------------------
+
+Q26. What is the national animal of India?
+Topic: Indian Symbols | Difficulty: Easy
+Category: General Awareness
+
+Options:
+    A) Lion
+  ✓ B) Tiger
+    C) Peacock
+    D) Elephant
+
+Correct Answer: Tiger
+
+Explanation:
+The Bengal Tiger is the national animal of India, representing strength and grace
+------------------------------------------------------------------------------------------
+
+Q20. What is the LCM of 12, 18, and 24?
+Topic: Number System - LCM/HCF | Difficulty: Easy
+Category: Quantitative Aptitude
+
+Options:
+    A) 36
+    B) 48
+  ✓ C) 72
+    D) 96
+
+Correct Answer: 72
+
+Explanation:
+LCM(12, 18, 24) = 2³ × 3² = 8 × 9 = 72
+------------------------------------------------------------------------------------------
+
+Q23. Choose the correct sentence:
+Topic: Tenses - Simple Past | Difficulty: Easy
+Category: English
+
+Options:
+    A) He goes to school yesterday
+  ✓ B) He went to school yesterday
+    C) He is going to school yesterday
+    D) He has gone to school yesterday
+
+Correct Answer: He went to school yesterday
+
+Explanation:
+Past events use Simple Past tense. 'Yesterday' is a past time indicator.
+Correct: He went to school yesterday
+------------------------------------------------------------------------------------------
+
+Q32. Choose correct: If I _____ him, I would help
+Topic: Conditional Tenses | Difficulty: Medium
+Category: English
+
+Options:
+    A) know
+  ✓ B) knew
+    C) will know
+    D) have known
+
+Correct Answer: knew
+
+Explanation:
+Conditional sentence: If + past, would + verb
+Correct: If I knew him, I would help (Conditional Perfect)
+------------------------------------------------------------------------------------------
+
+Q27. Choose correct: Neither the teacher _____ the students are present
+Topic: Conjunctions - Correlative | Difficulty: Medium
+Category: English
+
+Options:
+  ✓ A) nor
+    B) or
+    C) and
+    D) but
+
+Correct Answer: nor
+
+Explanation:
+'Neither...nor' is a correlative conjunction pair
+Correct: Neither the teacher nor the students are present
+------------------------------------------------------------------------------------------
+
+Q19. What is probability of getting head in coin toss?
+Topic: Probability - Basic | Difficulty: Easy
+Category: Quantitative Aptitude
+
+Options:
+    A) 0.25
+  ✓ B) 0.5
+    C) 0.75
+    D) 1
+
+Correct Answer: 0.5
+
+Explanation:
+A coin has 2 equally likely outcomes: Head and Tail
+P(Head) = 1/2 = 0.5
+------------------------------------------------------------------------------------------
+
+Q3. Who wrote the Indian Constitution?
+Topic: Indian History | Difficulty: Medium
+Category: General Awareness
+
+Options:
+    A) Jawaharlal Nehru
+  ✓ B) B.R. Ambedkar
+    C) Rajendra Prasad
+    D) Sardar Patel
+
+Correct Answer: B.R. Ambedkar
+
+Explanation:
+Dr. B.R. Ambedkar chaired the drafting committee and was the main architect of the Indian Constitution
+------------------------------------------------------------------------------------------
+
+Q6. A shopkeeper buys a shirt for Rs. 400 and sells it for Rs. 600. What is profit%?
+Topic: Profit & Loss - Basic | Difficulty: Medium
+Category: Quantitative Aptitude
+
+Options:
+    A) 25%
+    B) 33.33%
+  ✓ C) 50%
+    D) 60%
+
+Correct Answer: 50%
+
+Explanation:
+Cost Price = 400, Selling Price = 600
+Profit = 600 - 400 = 200
+Profit% = 200/400 × 100 = 50%
+------------------------------------------------------------------------------------------
+
+Q7. Who was the first Prime Minister of India?
+Topic: Indian History | Difficulty: Medium
+Category: General Awareness
+
+Options:
+  ✓ A) Jawaharlal Nehru
+    B) Sardar Patel
+    C) Subhas Chandra Bose
+    D) Mahatma Gandhi
+
+Correct Answer: Jawaharlal Nehru
+
+Explanation:
+Jawaharlal Nehru was the first PM of India (1947-1964)
+------------------------------------------------------------------------------------------
+
+Q12. What is the capital of Gujarat?
+Topic: Indian Geography | Difficulty: Easy
+Category: General Awareness
+
+Options:
+    A) Ahmedabad
+  ✓ B) Gandhinagar
+    C) Vadodara
+    D) Rajkot
+
+Correct Answer: Gandhinagar
+
+Explanation:
+Gandhinagar is the capital of Gujarat state, while Ahmedabad is the largest city
+------------------------------------------------------------------------------------------
+
+Q14. Who is the current President of India?
+Topic: Current Affairs - Politics | Difficulty: Easy
+Category: General Awareness
+
+Options:
+    A) Narendra Modi
+    B) Rajendra Prasad
+  ✓ C) Droupadi Murmu
+    D) Ram Nath Kovind
+
+Correct Answer: Droupadi Murmu
+
+Explanation:
+Droupadi Murmu became the 15th President of India on July 25, 2022
+------------------------------------------------------------------------------------------
+
+Q13. Convert: 'I said, I am going home'
+Topic: Direct & Indirect Speech | Difficulty: Medium
+Category: English
+
+Options:
+    A) I said that I am going home
+  ✓ B) I said that I was going home
+    C) I said I would go home
+    D) I told I am going home
+
+Correct Answer: I said that I was going home
+
+Explanation:
+Indirect speech: Change present to past when main verb is past
+Direct: 'I am going' → Indirect: 'I was going'
+------------------------------------------------------------------------------------------
+
+Q2. Fill: She sang _____ and danced all night
+Topic: Adjectives & Adverbs | Difficulty: Easy
+Category: English
+
+Options:
+    A) beautiful
+  ✓ B) beautifully
+    C) beauty
+    D) beautify
+
+Correct Answer: beautifully
+
+Explanation:
+Adverbs modify verbs. 'Beautifully' modifies 'sang'
+Correct: She sang beautifully and danced all night
+------------------------------------------------------------------------------------------
+
+Q29. 15% of 800 + 20% of 500 = ?
+Topic: Percentage - Basic Calculation | Difficulty: Medium
+Category: Quantitative Aptitude
+
+Options:
+  ✓ A) 220
+    B) 320
+    C) 420
+    D) 520
+
+Correct Answer: 220
+
+Explanation:
+15% of 800 = 0.15 × 800 = 120
+20% of 500 = 0.20 × 500 = 100
+Total = 120 + 100 = 220
+------------------------------------------------------------------------------------------
+
+Q22. What is 25% of 80?
+Topic: Percentage - Basic | Difficulty: Medium
+Category: Quantitative Aptitude
+
+Options:
+    A) 15
+  ✓ B) 20
+    C) 25
+    D) 30
+
+Correct Answer: 20
+
+Explanation:
+25% of 80 = 0.25 × 80 = 20
+------------------------------------------------------------------------------------------
+
+Q25. If A's income is 20% more than B's, then B's income is what % less than A's?
+Topic: Percentage - Comparative | Difficulty: Medium
+Category: Quantitative Aptitude
+
+Options:
+  ✓ A) 16.67%
+    B) 18%
+    C) 20%
+    D) 25%
+
+Correct Answer: 16.67%
+
+Explanation:
+Let B's income = 100, A's = 120
+Difference = 20, as % of A's = 20/120 × 100 = 16.67%
+------------------------------------------------------------------------------------------
+
+Q10. Two items are sold at equal selling price. One at 20% profit, other at 20% loss. What is net loss%?
+Topic: Profit & Loss - Advanced | Difficulty: Hard
+Category: Quantitative Aptitude
+
+Options:
+  ✓ A) 4%
+    B) 5%
+    C) 10%
+    D) 20%
+
+Correct Answer: 4%
+
+Explanation:
+Let SP = 100 each, CP1 = 100/1.2 = 83.33, CP2 = 100/0.8 = 125
+Total CP = 208.33, Total SP = 200
+Loss% = 8.33/208.33 × 100 = 4%
+------------------------------------------------------------------------------------------
+
+Q11. Choose correct article: I need _____ honest person
+Topic: Articles - Usage | Difficulty: Easy
+Category: English
+
+Options:
+    A) a
+  ✓ B) an
+    C) the
+    D) no article
+
+Correct Answer: an
+
+Explanation:
+'Honest' starts with vowel sound, so use 'an'
+Correct: I need an honest person
+------------------------------------------------------------------------------------------
+
+Q16. Which is the highest mountain peak in India?
+Topic: Indian Geography | Difficulty: Easy
+Category: General Awareness
+
+Options:
+  ✓ A) Kangchenjunga
+    B) Makalu
+    C) Kanchenjunga
+    D) Nanda Devi
+
+Correct Answer: Kangchenjunga
+
+Explanation:
+Kangchenjunga (8,586m) is the highest peak in India, shared with Nepal
+------------------------------------------------------------------------------------------
+
+Q18. Find HCF of 48 and 64
+Topic: Number System - LCM/HCF | Difficulty: Easy
+Category: Quantitative Aptitude
+
+Options:
+    A) 8
+  ✓ B) 16
+    C) 32
+    D) 64
+
+Correct Answer: 16
+
+Explanation:
+Factors of 48: 1,2,3,4,6,8,12,16,24,48
+Factors of 64: 1,2,4,8,16,32,64
+HCF = 16
+------------------------------------------------------------------------------------------
+
+Q30. Fill: She ___ been working here for 5 years
+Topic: Tenses - Present Perfect | Difficulty: Easy
+Category: English
+
+Options:
+  ✓ A) has
+    B) have
+    C) is
+    D) was
+
+Correct Answer: has
+
+Explanation:
+Present Perfect uses 'has' with singular subject (She).
+Correct: She has been working here for 5 years
+------------------------------------------------------------------------------------------
+
+Q4. A man covers 50 km in 10 hours. What is his speed in km/hr?
+Topic: Speed, Distance, Time | Difficulty: Medium
+Category: Quantitative Aptitude
+
+Options:
+    A) 3
+    B) 4
+  ✓ C) 5
+    D) 6
+
+Correct Answer: 5
+
+Explanation:
+Speed = Distance/Time = 50/10 = 5 km/hr
+------------------------------------------------------------------------------------------
+
+Q15. In which year did India become a Republic?
+Topic: Indian History | Difficulty: Medium
+Category: General Awareness
+
+Options:
+    A) 1947
+  ✓ B) 1950
+    C) 1952
+    D) 1956
+
+Correct Answer: 1950
+
+Explanation:
+India became a Republic on January 26, 1950, when the Constitution came into effect
+------------------------------------------------------------------------------------------
+
+Q9. Convert to Passive: They built this house in 1990
+Topic: Voice - Passive | Difficulty: Medium
+Category: English
+
+Options:
+  ✓ A) This house was built in 1990
+    B) This house is built in 1990
+    C) This house has been built in 1990
+    D) This house will be built in 1990
+
+Correct Answer: This house was built in 1990
+
+Explanation:
+Active: They built (past) → Passive: This house was built (past)
+Structure: Object + was/were + past participle + by + subject
+------------------------------------------------------------------------------------------
+
+Q1. Which country shares the longest border with India?
+Topic: Indian Geography | Difficulty: Medium
+Category: General Awareness
+
+Options:
+    A) China
+    B) Pakistan
+  ✓ C) Bangladesh
+    D) Nepal
+
+Correct Answer: Bangladesh
+
+Explanation:
+Bangladesh shares a 4,096 km border with India, the longest among all neighbors
+------------------------------------------------------------------------------------------
+
+Q5. Two dice are thrown. What is probability of getting sum = 7?
+Topic: Probability - Compound | Difficulty: Medium
+Category: Quantitative Aptitude
+
+Options:
+  ✓ A) 1/6
+    B) 1/12
+    C) 1/18
+    D) 1/36
+
+Correct Answer: 1/6
+
+Explanation:
+Favorable outcomes: (1,6), (2,5), (3,4), (4,3), (5,2), (6,1) = 6
+Total outcomes = 36
+P(sum=7) = 6/36 = 1/6
+------------------------------------------------------------------------------------------
+
+Q24. How many states are there in India?
+Topic: Indian Geography | Difficulty: Easy
+Category: General Awareness
+
+Options:
+    A) 25
+  ✓ B) 28
+    C) 29
+    D) 30
+
+Correct Answer: 28
+
+Explanation:
+India has 28 states and 8 union territories (as of 2024)
+------------------------------------------------------------------------------------------
+
+Q8. Fill: She is good _____ Mathematics
+Topic: Prepositions - Common | Difficulty: Easy
+Category: English
+
+Options:
+  ✓ A) at
+    B) in
+    C) on
+    D) for
+
+Correct Answer: at
+
+Explanation:
+'Good at' is correct usage for skills/subjects
+Correct: She is good at Mathematics
+------------------------------------------------------------------------------------------
+
+Q21. Average of 5, 10, 15, 20, 25 = ?
+Topic: Average - Simple | Difficulty: Easy
+Category: Quantitative Aptitude
+
+Options:
+    A) 10
+    B) 12
+  ✓ C) 15
+    D) 20
+
+Correct Answer: 15
+
+Explanation:
+Sum = 5+10+15+20+25 = 75
+Average = 75/5 = 15
+------------------------------------------------------------------------------------------

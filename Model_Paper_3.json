@@ -1,0 +1,489 @@
+{
+  "paper_number": 3,
+  "creation_date": "2026-09-18T11:35:33.278173",
+  "total_marks": 75,
+  "duration_minutes": 60,
+  "total_questions": 32,
+  "questions": [
+    {
+      "id": 6,
+      "category": "Quantitative Aptitude",
+      "topic": "Profit & Loss - Basic",
+      "difficulty": "Medium",
+      "question": "A shopkeeper buys a shirt for Rs. 400 and sells it for Rs. 600. What is profit%?",
+      "options": [
+        "25%",
+        "33.33%",
+        "50%",
+        "60%"
+      ],
+      "answer": "50%",
+      "solution": "Cost Price = 400, Selling Price = 600\nProfit = 600 - 400 = 200\nProfit% = 200/400 × 100 = 50%"
+    },
+    {
+      "id": 4,
+      "category": "Quantitative Aptitude",
+      "topic": "Speed, Distance, Time",
+      "difficulty": "Medium",
+      "question": "A man covers 50 km in 10 hours. What is his speed in km/hr?",
+      "options": [
+        "3",
+        "4",
+        "5",
+        "6"
+      ],
+      "answer": "5",
+      "solution": "Speed = Distance/Time = 50/10 = 5 km/hr"
+    },
+    {
+      "id": 5,
+      "category": "Quantitative Aptitude",
+      "topic": "Probability - Compound",
+      "difficulty": "Medium",
+      "question": "Two dice are thrown. What is probability of getting sum = 7?",
+      "options": [
+        "1/6",
+        "1/12",
+        "1/18",
+        "1/36"
+      ],
+      "answer": "1/6",
+      "solution": "Favorable outcomes: (1,6), (2,5), (3,4), (4,3), (5,2), (6,1) = 6\nTotal outcomes = 36\nP(sum=7) = 6/36 = 1/6"
+    },
+    {
+      "id": 2,
+      "category": "English",
+      "topic": "Adjectives & Adverbs",
+      "difficulty": "Easy",
+      "question": "Fill: She sang _____ and danced all night",
+      "options": [
+        "beautiful",
+        "beautifully",
+        "beauty",
+        "beautify"
+      ],
+      "answer": "beautifully",
+      "solution": "Adverbs modify verbs. 'Beautifully' modifies 'sang'\nCorrect: She sang beautifully and danced all night"
+    },
+    {
+      "id": 30,
+      "category": "English",
+      "topic": "Tenses - Present Perfect",
+      "difficulty": "Easy",
+      "question": "Fill: She ___ been working here for 5 years",
+      "options": [
+        "has",
+        "have",
+        "is",
+        "was"
+      ],
+      "answer": "has",
+      "solution": "Present Perfect uses 'has' with singular subject (She).\nCorrect: She has been working here for 5 years"
+    },
+    {
+      "id": 29,
+      "category": "Quantitative Aptitude",
+      "topic": "Percentage - Basic Calculation",
+      "difficulty": "Medium",
+      "question": "15% of 800 + 20% of 500 = ?",
+      "options": [
+        "220",
+        "320",
+        "420",
+        "520"
+      ],
+      "answer": "220",
+      "solution": "15% of 800 = 0.15 × 800 = 120\n20% of 500 = 0.20 × 500 = 100\nTotal = 120 + 100 = 220"
+    },
+    {
+      "id": 15,
+      "category": "General Awareness",
+      "topic": "Indian History",
+      "difficulty": "Medium",
+      "question": "In which year did India become a Republic?",
+      "options": [
+        "1947",
+        "1950",
+        "1952",
+        "1956"
+      ],
+      "answer": "1950",
+      "solution": "India became a Republic on January 26, 1950, when the Constitution came into effect"
+    },
+    {
+      "id": 19,
+      "category": "Quantitative Aptitude",
+      "topic": "Probability - Basic",
+      "difficulty": "Easy",
+      "question": "What is probability of getting head in coin toss?",
+      "options": [
+        "0.25",
+        "0.5",
+        "0.75",
+        "1"
+      ],
+      "answer": "0.5",
+      "solution": "A coin has 2 equally likely outcomes: Head and Tail\nP(Head) = 1/2 = 0.5"
+    },
+    {
+      "id": 21,
+      "category": "Quantitative Aptitude",
+      "topic": "Average - Simple",
+      "difficulty": "Easy",
+      "question": "Average of 5, 10, 15, 20, 25 = ?",
+      "options": [
+        "10",
+        "12",
+        "15",
+        "20"
+      ],
+      "answer": "15",
+      "solution": "Sum = 5+10+15+20+25 = 75\nAverage = 75/5 = 15"
+    },
+    {
+      "id": 24,
+      "category": "General Awareness",
+      "topic": "Indian Geography",
+      "difficulty": "Easy",
+      "question": "How many states are there in India?",
+      "options": [
+        "25",
+        "28",
+        "29",
+        "30"
+      ],
+      "answer": "28",
+      "solution": "India has 28 states and 8 union territories (as of 2024)"
+    },
+    {
+      "id": 31,
+      "category": "Quantitative Aptitude",
+      "topic": "Simple Interest - Advanced",
+      "difficulty": "Hard",
+      "question": "A sum becomes 4/3 of itself in 5 years at simple interest. What is rate of interest?",
+      "options": [
+        "6.67%",
+        "10%",
+        "20%",
+        "25%"
+      ],
+      "answer": "6.67%",
+      "solution": "SI = 4/3 P - P = 1/3 P\nSI = P×R×T/100\n1/3 P = P×R×5/100\nR = 100/15 = 6.67%"
+    },
+    {
+      "id": 20,
+      "category": "Quantitative Aptitude",
+      "topic": "Number System - LCM/HCF",
+      "difficulty": "Easy",
+      "question": "What is the LCM of 12, 18, and 24?",
+      "options": [
+        "36",
+        "48",
+        "72",
+        "96"
+      ],
+      "answer": "72",
+      "solution": "LCM(12, 18, 24) = 2³ × 3² = 8 × 9 = 72"
+    },
+    {
+      "id": 1,
+      "category": "General Awareness",
+      "topic": "Indian Geography",
+      "difficulty": "Medium",
+      "question": "Which country shares the longest border with India?",
+      "options": [
+        "China",
+        "Pakistan",
+        "Bangladesh",
+        "Nepal"
+      ],
+      "answer": "Bangladesh",
+      "solution": "Bangladesh shares a 4,096 km border with India, the longest among all neighbors"
+    },
+    {
+      "id": 27,
+      "category": "English",
+      "topic": "Conjunctions - Correlative",
+      "difficulty": "Medium",
+      "question": "Choose correct: Neither the teacher _____ the students are present",
+      "options": [
+        "nor",
+        "or",
+        "and",
+        "but"
+      ],
+      "answer": "nor",
+      "solution": "'Neither...nor' is a correlative conjunction pair\nCorrect: Neither the teacher nor the students are present"
+    },
+    {
+      "id": 28,
+      "category": "General Awareness",
+      "topic": "Indian Geography",
+      "difficulty": "Medium",
+      "question": "Which is the longest river in India?",
+      "options": [
+        "Godavari",
+        "Brahmaputra",
+        "Ganga",
+        "Sutlej"
+      ],
+      "answer": "Ganga",
+      "solution": "The Ganga is the longest river in India, approximately 2525 km"
+    },
+    {
+      "id": 11,
+      "category": "English",
+      "topic": "Articles - Usage",
+      "difficulty": "Easy",
+      "question": "Choose correct article: I need _____ honest person",
+      "options": [
+        "a",
+        "an",
+        "the",
+        "no article"
+      ],
+      "answer": "an",
+      "solution": "'Honest' starts with vowel sound, so use 'an'\nCorrect: I need an honest person"
+    },
+    {
+      "id": 18,
+      "category": "Quantitative Aptitude",
+      "topic": "Number System - LCM/HCF",
+      "difficulty": "Easy",
+      "question": "Find HCF of 48 and 64",
+      "options": [
+        "8",
+        "16",
+        "32",
+        "64"
+      ],
+      "answer": "16",
+      "solution": "Factors of 48: 1,2,3,4,6,8,12,16,24,48\nFactors of 64: 1,2,4,8,16,32,64\nHCF = 16"
+    },
+    {
+      "id": 14,
+      "category": "General Awareness",
+      "topic": "Current Affairs - Politics",
+      "difficulty": "Easy",
+      "question": "Who is the current President of India?",
+      "options": [
+        "Narendra Modi",
+        "Rajendra Prasad",
+        "Droupadi Murmu",
+        "Ram Nath Kovind"
+      ],
+      "answer": "Droupadi Murmu",
+      "solution": "Droupadi Murmu became the 15th President of India on July 25, 2022"
+    },
+    {
+      "id": 32,
+      "category": "English",
+      "topic": "Conditional Tenses",
+      "difficulty": "Medium",
+      "question": "Choose correct: If I _____ him, I would help",
+      "options": [
+        "know",
+        "knew",
+        "will know",
+        "have known"
+      ],
+      "answer": "knew",
+      "solution": "Conditional sentence: If + past, would + verb\nCorrect: If I knew him, I would help (Conditional Perfect)"
+    },
+    {
+      "id": 12,
+      "category": "General Awareness",
+      "topic": "Indian Geography",
+      "difficulty": "Easy",
+      "question": "What is the capital of Gujarat?",
+      "options": [
+        "Ahmedabad",
+        "Gandhinagar",
+        "Vadodara",
+        "Rajkot"
+      ],
+      "answer": "Gandhinagar",
+      "solution": "Gandhinagar is the capital of Gujarat state, while Ahmedabad is the largest city"
+    },
+    {
+      "id": 17,
+      "category": "English",
+      "topic": "Subject-Verb Agreement",
+      "difficulty": "Medium",
+      "question": "Identify error: He have completed his work",
+      "options": [
+        "He",
+        "have",
+        "completed",
+        "No error"
+      ],
+      "answer": "have",
+      "solution": "Subject 'He' is singular, so use 'has' not 'have'\nCorrect: He has completed his work"
+    },
+    {
+      "id": 9,
+      "category": "English",
+      "topic": "Voice - Passive",
+      "difficulty": "Medium",
+      "question": "Convert to Passive: They built this house in 1990",
+      "options": [
+        "This house was built in 1990",
+        "This house is built in 1990",
+        "This house has been built in 1990",
+        "This house will be built in 1990"
+      ],
+      "answer": "This house was built in 1990",
+      "solution": "Active: They built (past) → Passive: This house was built (past)\nStructure: Object + was/were + past participle + by + subject"
+    },
+    {
+      "id": 3,
+      "category": "General Awareness",
+      "topic": "Indian History",
+      "difficulty": "Medium",
+      "question": "Who wrote the Indian Constitution?",
+      "options": [
+        "Jawaharlal Nehru",
+        "B.R. Ambedkar",
+        "Rajendra Prasad",
+        "Sardar Patel"
+      ],
+      "answer": "B.R. Ambedkar",
+      "solution": "Dr. B.R. Ambedkar chaired the drafting committee and was the main architect of the Indian Constitution"
+    },
+    {
+      "id": 8,
+      "category": "English",
+      "topic": "Prepositions - Common",
+      "difficulty": "Easy",
+      "question": "Fill: She is good _____ Mathematics",
+      "options": [
+        "at",
+        "in",
+        "on",
+        "for"
+      ],
+      "answer": "at",
+      "solution": "'Good at' is correct usage for skills/subjects\nCorrect: She is good at Mathematics"
+    },
+    {
+      "id": 7,
+      "category": "General Awareness",
+      "topic": "Indian History",
+      "difficulty": "Medium",
+      "question": "Who was the first Prime Minister of India?",
+      "options": [
+        "Jawaharlal Nehru",
+        "Sardar Patel",
+        "Subhas Chandra Bose",
+        "Mahatma Gandhi"
+      ],
+      "answer": "Jawaharlal Nehru",
+      "solution": "Jawaharlal Nehru was the first PM of India (1947-1964)"
+    },
+    {
+      "id": 22,
+      "category": "Quantitative Aptitude",
+      "topic": "Percentage - Basic",
+      "difficulty": "Medium",
+      "question": "What is 25% of 80?",
+      "options": [
+        "15",
+        "20",
+        "25",
+        "30"
+      ],
+      "answer": "20",
+      "solution": "25% of 80 = 0.25 × 80 = 20"
+    },
+    {
+      "id": 23,
+      "category": "English",
+      "topic": "Tenses - Simple Past",
+      "difficulty": "Easy",
+      "question": "Choose the correct sentence:",
+      "options": [
+        "He goes to school yesterday",
+        "He went to school yesterday",
+        "He is going to school yesterday",
+        "He has gone to school yesterday"
+      ],
+      "answer": "He went to school yesterday",
+      "solution": "Past events use Simple Past tense. 'Yesterday' is a past time indicator.\nCorrect: He went to school yesterday"
+    },
+    {
+      "id": 10,
+      "category": "Quantitative Aptitude",
+      "topic": "Profit & Loss - Advanced",
+      "difficulty": "Hard",
+      "question": "Two items are sold at equal selling price. One at 20% profit, other at 20% loss. What is net loss%?",
+      "options": [
+        "4%",
+        "5%",
+        "10%",
+        "20%"
+      ],
+      "answer": "4%",
+      "solution": "Let SP = 100 each, CP1 = 100/1.2 = 83.33, CP2 = 100/0.8 = 125\nTotal CP = 208.33, Total SP = 200\nLoss% = 8.33/208.33 × 100 = 4%"
+    },
+    {
+      "id": 25,
+      "category": "Quantitative Aptitude",
+      "topic": "Percentage - Comparative",
+      "difficulty": "Medium",
+      "question": "If A's income is 20% more than B's, then B's income is what % less than A's?",
+      "options": [
+        "16.67%",
+        "18%",
+        "20%",
+        "25%"
+      ],
+      "answer": "16.67%",
+      "solution": "Let B's income = 100, A's = 120\nDifference = 20, as % of A's = 20/120 × 100 = 16.67%"
+    },
+    {
+      "id": 16,
+      "category": "General Awareness",
+      "topic": "Indian Geography",
+      "difficulty": "Easy",
+      "question": "Which is the highest mountain peak in India?",
+      "options": [
+        "Kangchenjunga",
+        "Makalu",
+        "Kanchenjunga",
+        "Nanda Devi"
+      ],
+      "answer": "Kangchenjunga",
+      "solution": "Kangchenjunga (8,586m) is the highest peak in India, shared with Nepal"
+    },
+    {
+      "id": 26,
+      "category": "General Awareness",
+      "topic": "Indian Symbols",
+      "difficulty": "Easy",
+      "question": "What is the national animal of India?",
+      "options": [
+        "Lion",
+        "Tiger",
+        "Peacock",
+        "Elephant"
+      ],
+      "answer": "Tiger",
+      "solution": "The Bengal Tiger is the national animal of India, representing strength and grace"
+    },
+    {
+      "id": 13,
+      "category": "English",
+      "topic": "Direct & Indirect Speech",
+      "difficulty": "Medium",
+      "question": "Convert: 'I said, I am going home'",
+      "options": [
+        "I said that I am going home",
+        "I said that I was going home",
+        "I said I would go home",
+        "I told I am going home"
+      ],
+      "answer": "I said that I was going home",
+      "solution": "Indirect speech: Change present to past when main verb is past\nDirect: 'I am going' → Indirect: 'I was going'"
+    }
+  ]
+}
