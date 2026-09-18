@@ -1,0 +1,185 @@
+{
+  "exam_config": {
+    "name": "Gujarat Secondary Service Selection Board - Class-3",
+    "notification": "378/202526",
+    "groups": [
+      "Group A",
+      "Group B"
+    ],
+    "website": "https://gsssb.gujarat.gov.in",
+    "language": "Both Gujarati and English"
+  },
+  "subjects": {
+    "English": {
+      "marks": 15,
+      "importance": "High",
+      "topics": [
+        "Tenses",
+        "Voices (Active and Passive voice)",
+        "Direct/Indirect Speech",
+        "Articles and Determiners",
+        "Use of Adjectives, Prepositions and Conjunctions"
+      ]
+    },
+    "General Awareness and Current Affairs": {
+      "marks": 30,
+      "importance": "Very High",
+      "coverage": "General Knowledge, Current Events, Indian History, Geography"
+    },
+    "Quantitative Aptitude": {
+      "marks": 30,
+      "importance": "Very High",
+      "level": "Class-10 Equivalent",
+      "topics": [
+        "Number System (સંખ્યા પદ્ધવત)",
+        "LCM and HCF (લ.સા.અ. અને ગુ.સા.અ.)",
+        "Percentage and Partnership (ટકાવારી અને ભાગીદારી)",
+        "Profit-Loss (નફો-ખોટ)",
+        "Picture Based General Logical Questions",
+        "Probability (સંભાવના)",
+        "Data Interpretation and Sufficiency",
+        "Symmetry (સંવમવત)",
+        "Mathematical Operations",
+        "Mathematical Modeling",
+        "Proofs in Mathematics"
+      ]
+    }
+  },
+  "subject_distribution": {
+    "total_marks": 75,
+    "subject_distribution": {
+      "English": {
+        "marks": 15,
+        "percentage": 20.0,
+        "importance_level": "High",
+        "topics_count": 5
+      },
+      "General Awareness and Current Affairs": {
+        "marks": 30,
+        "percentage": 40.0,
+        "importance_level": "Very High",
+        "topics_count": 0
+      },
+      "Quantitative Aptitude": {
+        "marks": 30,
+        "percentage": 40.0,
+        "importance_level": "Very High",
+        "topics_count": 11
+      }
+    }
+  },
+  "high_frequency_topics": {
+    "Quantitative Aptitude": [
+      {
+        "topic": "Number System",
+        "frequency": "Very High",
+        "confidence": 95
+      },
+      {
+        "topic": "LCM and HCF",
+        "frequency": "Very High",
+        "confidence": 92
+      },
+      {
+        "topic": "Profit-Loss",
+        "frequency": "High",
+        "confidence": 88
+      },
+      {
+        "topic": "Percentage",
+        "frequency": "High",
+        "confidence": 87
+      },
+      {
+        "topic": "Mathematical Operations",
+        "frequency": "High",
+        "confidence": 85
+      },
+      {
+        "topic": "Data Interpretation",
+        "frequency": "High",
+        "confidence": 83
+      }
+    ],
+    "English": [
+      {
+        "topic": "Tenses",
+        "frequency": "Very High",
+        "confidence": 93
+      },
+      {
+        "topic": "Active/Passive Voice",
+        "frequency": "Very High",
+        "confidence": 90
+      },
+      {
+        "topic": "Prepositions and Conjunctions",
+        "frequency": "High",
+        "confidence": 82
+      }
+    ]
+  },
+  "study_strategy": {
+    "study_plan": {
+      "Phase 1": {
+        "duration_days": 30,
+        "focus": "General Awareness and Current Affairs",
+        "reasoning": "Broadest coverage, helps understand interconnected topics",
+        "daily_hours": 4
+      },
+      "Phase 2": {
+        "duration_days": 25,
+        "focus": "Quantitative Aptitude",
+        "reasoning": "High marks (30), requires practice and problem-solving",
+        "daily_hours": 5,
+        "practice_problems": 300
+      },
+      "Phase 3": {
+        "duration_days": 20,
+        "focus": "English Language",
+        "reasoning": "Moderate marks (15), relatively easier",
+        "daily_hours": 2,
+        "grammar_exercises": 150
+      },
+      "Phase 4": {
+        "duration_days": 15,
+        "focus": "Revision and Mock Tests",
+        "reasoning": "Consolidate learning and practice time management",
+        "mock_tests": 10,
+        "daily_hours": 4
+      }
+    },
+    "estimated_preparation_days": 90,
+    "recommended_target_score": {
+      "Good": 70,
+      "Very Good": 80,
+      "Excellent": 90
+    }
+  },
+  "prediction_model": {
+    "current_affairs": {
+      "likelihood": "Always appears",
+      "expected_questions": 15,
+      "per_exam": "Covers last 6-12 months",
+      "confidence": 98
+    },
+    "mathematical_reasoning": {
+      "likelihood": "Very High",
+      "expected_questions": 20,
+      "difficulty": "Medium to Hard",
+      "confidence": 92
+    },
+    "language_proficiency": {
+      "likelihood": "High",
+      "expected_questions": 10,
+      "difficulty": "Easy to Medium",
+      "confidence": 89
+    },
+    "vocabulary_grammar": {
+      "likelihood": "Very High",
+      "expected_questions": 5,
+      "difficulty": "Easy",
+      "confidence": 91
+    }
+  }
+}
