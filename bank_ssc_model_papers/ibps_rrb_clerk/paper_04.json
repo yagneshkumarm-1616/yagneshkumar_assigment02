@@ -1,0 +1,1309 @@
+{
+  "exam": "IBPS RRB Office Assistant (Clerk)",
+  "exam_key": "ibps_rrb_clerk",
+  "stage": "Prelims",
+  "paper_number": 4,
+  "pattern": {
+    "sections": [
+      {
+        "name": "Reasoning",
+        "questions": 40,
+        "marks": 40,
+        "minutes": 25
+      },
+      {
+        "name": "Numerical Ability",
+        "questions": 40,
+        "marks": 40,
+        "minutes": 20
+      }
+    ],
+    "total_questions": 80,
+    "total_marks": 80,
+    "minutes": 45,
+    "negative_mark": 0.25
+  },
+  "questions": [
+    {
+      "number": 1,
+      "section": "Reasoning",
+      "topic": "Analogy",
+      "difficulty": "Easy",
+      "prompt": "Book : Read :: Food : ?",
+      "options": [
+        "Cook",
+        "Eat",
+        "Serve",
+        "Buy"
+      ],
+      "answer": "Eat",
+      "explanation": "A book is read; food is eaten.",
+      "evidence": "Syllabus and recurring previous-paper topic"
+    },
+    {
+      "number": 2,
+      "section": "Reasoning",
+      "topic": "Order and Ranking",
+      "difficulty": "Easy",
+      "prompt": "In a class of 40, Meena is 12th from the top. Her rank from the bottom is:",
+      "options": [
+        "27th",
+        "28th",
+        "29th",
+        "30th"
+      ],
+      "answer": "29th",
+      "explanation": "Bottom rank = 40 - 12 + 1 = 29.",
+      "evidence": "Syllabus and recurring previous-paper topic"
+    },
+    {
+      "number": 3,
+      "section": "Reasoning",
+      "topic": "Syllogism",
+      "difficulty": "Medium",
+      "prompt": "Statements: All pens are books. Some books are papers. Conclusions: I. Some pens are papers. II. All pens are books.",
+      "options": [
+        "Only I follows",
+        "Only II follows",
+        "Both follow",
+        "Neither follows"
+      ],
+      "answer": "Only II follows",
+      "explanation": "The first statement directly supports II; overlap of pens and papers is not certain.",
+      "evidence": "Syllabus and recurring previous-paper topic"
+    },
+    {
+      "number": 4,
+      "section": "Reasoning",
+      "topic": "Analogy",
+      "difficulty": "Easy",
+      "prompt": "Book : Read :: Food : ?",
+      "options": [
+        "Cook",
+        "Eat",
+        "Serve",
+        "Buy"
+      ],
+      "answer": "Eat",
+      "explanation": "A book is read; food is eaten.",
+      "evidence": "Syllabus and recurring previous-paper topic"
+    },
+    {
+      "number": 5,
+      "section": "Reasoning",
+      "topic": "Series",
+      "difficulty": "Medium",
+      "prompt": "Find the missing term: B, E, I, N, T, ?",
+      "options": [
+        "Y",
+        "Z",
+        "A",
+        "C"
+      ],
+      "answer": "A",
+      "explanation": "Letter jumps are +3, +4, +5, +6, then +7 with cyclic alphabet, giving A.",
+      "evidence": "Syllabus and recurring previous-paper topic"
+    },
+    {
+      "number": 6,
+      "section": "Reasoning",
+      "topic": "Blood Relation",
+      "difficulty": "Easy",
+      "prompt": "Ravi says, 'She is the daughter of the only son of my grandfather.' The woman is Ravi's:",
+      "options": [
+        "Sister",
+        "Mother",
+        "Daughter",
+        "Aunt"
+      ],
+      "answer": "Sister",
+      "explanation": "The only son of Ravi's grandfather is Ravi's father; his daughter is Ravi's sister.",
+      "evidence": "Syllabus and recurring previous-paper topic"
+    },
+    {
+      "number": 7,
+      "section": "Reasoning",
+      "topic": "Inequality",
+      "difficulty": "Easy",
+      "prompt": "If P > Q = R >= S, which is definitely true?",
+      "options": [
+        "P < S",
+        "P > S",
+        "Q < S",
+        "R > P"
+      ],
+      "answer": "P > S",
+      "explanation": "P is greater than Q and Q is at least S, so P is greater than S.",
+      "evidence": "Syllabus and recurring previous-paper topic"
+    },
+    {
+      "number": 8,
+      "section": "Reasoning",
+      "topic": "Seating Arrangement",
+      "difficulty": "Hard",
+      "prompt": "Five people P, Q, R, S and T sit in a row. P is left of Q, R is right of Q, and S is between P and Q. Who is in the middle?",
+      "options": [
+        "P",
+        "Q",
+        "R",
+        "S"
+      ],
+      "answer": "S",
+      "explanation": "The order is P-S-Q-R with T at an end; S occupies the central position among the constrained four.",
+      "evidence": "Syllabus and recurring previous-paper topic"
+    },
+    {
+      "number": 9,
+      "section": "Reasoning",
+      "topic": "Order and Ranking",
+      "difficulty": "Easy",
+      "prompt": "In a class of 40, Meena is 12th from the top. Her rank from the bottom is:",
+      "options": [
+        "27th",
+        "28th",
+        "29th",
+        "30th"
+      ],
+      "answer": "29th",
+      "explanation": "Bottom rank = 40 - 12 + 1 = 29.",
+      "evidence": "Syllabus and recurring previous-paper topic"
+    },
+    {
+      "number": 10,
+      "section": "Reasoning",
+      "topic": "Direction Sense",
+      "difficulty": "Easy",
+      "prompt": "A person walks 5 km north, then 3 km east, then 5 km south. He is now:",
+      "options": [
+        "3 km east of start",
+        "3 km west of start",
+        "5 km south",
+        "8 km east"
+      ],
+      "answer": "3 km east of start",
+      "explanation": "North and south movements cancel.",
+      "evidence": "Syllabus and recurring previous-paper topic"
+    },
+    {
+      "number": 11,
+      "section": "Reasoning",
+      "topic": "Seating Arrangement",
+      "difficulty": "Hard",
+      "prompt": "Five people P, Q, R, S and T sit in a row. P is left of Q, R is right of Q, and S is between P and Q. Who is in the middle?",
+      "options": [
+        "P",
+        "Q",
+        "R",
+        "S"
+      ],
+      "answer": "S",
+      "explanation": "The order is P-S-Q-R with T at an end; S occupies the central position among the constrained four.",
+      "evidence": "Syllabus and recurring previous-paper topic"
+    },
+    {
+      "number": 12,
+      "section": "Reasoning",
+      "topic": "Direction Sense",
+      "difficulty": "Easy",
+      "prompt": "A person walks 5 km north, then 3 km east, then 5 km south. He is now:",
+      "options": [
+        "3 km east of start",
+        "3 km west of start",
+        "5 km south",
+        "8 km east"
+      ],
+      "answer": "3 km east of start",
+      "explanation": "North and south movements cancel.",
+      "evidence": "Syllabus and recurring previous-paper topic"
+    },
+    {
+      "number": 13,
+      "section": "Reasoning",
+      "topic": "Coding-Decoding",
+      "difficulty": "Medium",
+      "prompt": "If BANK is coded as 2-1-14-11, how is LOAN coded using alphabet positions?",
+      "options": [
+        "12-15-1-14",
+        "11-15-1-13",
+        "12-14-1-15",
+        "13-15-2-14"
+      ],
+      "answer": "12-15-1-14",
+      "explanation": "Use the alphabet position of each letter.",
+      "evidence": "Syllabus and recurring previous-paper topic"
+    },
+    {
+      "number": 14,
+      "section": "Reasoning",
+      "topic": "Syllogism",
+      "difficulty": "Medium",
+      "prompt": "Statements: All pens are books. Some books are papers. Conclusions: I. Some pens are papers. II. All pens are books.",
+      "options": [
+        "Only I follows",
+        "Only II follows",
+        "Both follow",
+        "Neither follows"
+      ],
+      "answer": "Only II follows",
+      "explanation": "The first statement directly supports II; overlap of pens and papers is not certain.",
+      "evidence": "Syllabus and recurring previous-paper topic"
+    },
+    {
+      "number": 15,
+      "section": "Reasoning",
+      "topic": "Alphabet Test",
+      "difficulty": "Easy",
+      "prompt": "How many letters are between the 5th letter from the left and the 8th letter from the right?",
+      "options": [
+        "12",
+        "13",
+        "14",
+        "15"
+      ],
+      "answer": "13",
+      "explanation": "The 8th from right is S; between E and S are 13 letters.",
+      "evidence": "Syllabus and recurring previous-paper topic"
+    },
+    {
+      "number": 16,
+      "section": "Reasoning",
+      "topic": "Analogy",
+      "difficulty": "Easy",
+      "prompt": "Book : Read :: Food : ?",
+      "options": [
+        "Cook",
+        "Eat",
+        "Serve",
+        "Buy"
+      ],
+      "answer": "Eat",
+      "explanation": "A book is read; food is eaten.",
+      "evidence": "Syllabus and recurring previous-paper topic"
+    },
+    {
+      "number": 17,
+      "section": "Reasoning",
+      "topic": "Inequality",
+      "difficulty": "Easy",
+      "prompt": "If P > Q = R >= S, which is definitely true?",
+      "options": [
+        "P < S",
+        "P > S",
+        "Q < S",
+        "R > P"
+      ],
+      "answer": "P > S",
+      "explanation": "P is greater than Q and Q is at least S, so P is greater than S.",
+      "evidence": "Syllabus and recurring previous-paper topic"
+    },
+    {
+      "number": 18,
+      "section": "Reasoning",
+      "topic": "Coding-Decoding",
+      "difficulty": "Medium",
+      "prompt": "If BANK is coded as 2-1-14-11, how is LOAN coded using alphabet positions?",
+      "options": [
+        "12-15-1-14",
+        "11-15-1-13",
+        "12-14-1-15",
+        "13-15-2-14"
+      ],
+      "answer": "12-15-1-14",
+      "explanation": "Use the alphabet position of each letter.",
+      "evidence": "Syllabus and recurring previous-paper topic"
+    },
+    {
+      "number": 19,
+      "section": "Reasoning",
+      "topic": "Blood Relation",
+      "difficulty": "Easy",
+      "prompt": "Ravi says, 'She is the daughter of the only son of my grandfather.' The woman is Ravi's:",
+      "options": [
+        "Sister",
+        "Mother",
+        "Daughter",
+        "Aunt"
+      ],
+      "answer": "Sister",
+      "explanation": "The only son of Ravi's grandfather is Ravi's father; his daughter is Ravi's sister.",
+      "evidence": "Syllabus and recurring previous-paper topic"
+    },
+    {
+      "number": 20,
+      "section": "Reasoning",
+      "topic": "Seating Arrangement",
+      "difficulty": "Hard",
+      "prompt": "Five people P, Q, R, S and T sit in a row. P is left of Q, R is right of Q, and S is between P and Q. Who is in the middle?",
+      "options": [
+        "P",
+        "Q",
+        "R",
+        "S"
+      ],
+      "answer": "S",
+      "explanation": "The order is P-S-Q-R with T at an end; S occupies the central position among the constrained four.",
+      "evidence": "Syllabus and recurring previous-paper topic"
+    },
+    {
+      "number": 21,
+      "section": "Reasoning",
+      "topic": "Direction Sense",
+      "difficulty": "Easy",
+      "prompt": "A person walks 5 km north, then 3 km east, then 5 km south. He is now:",
+      "options": [
+        "3 km east of start",
+        "3 km west of start",
+        "5 km south",
+        "8 km east"
+      ],
+      "answer": "3 km east of start",
+      "explanation": "North and south movements cancel.",
+      "evidence": "Syllabus and recurring previous-paper topic"
+    },
+    {
+      "number": 22,
+      "section": "Reasoning",
+      "topic": "Inequality",
+      "difficulty": "Easy",
+      "prompt": "If P > Q = R >= S, which is definitely true?",
+      "options": [
+        "P < S",
+        "P > S",
+        "Q < S",
+        "R > P"
+      ],
+      "answer": "P > S",
+      "explanation": "P is greater than Q and Q is at least S, so P is greater than S.",
+      "evidence": "Syllabus and recurring previous-paper topic"
+    },
+    {
+      "number": 23,
+      "section": "Reasoning",
+      "topic": "Direction Sense",
+      "difficulty": "Easy",
+      "prompt": "A person walks 5 km north, then 3 km east, then 5 km south. He is now:",
+      "options": [
+        "3 km east of start",
+        "3 km west of start",
+        "5 km south",
+        "8 km east"
+      ],
+      "answer": "3 km east of start",
+      "explanation": "North and south movements cancel.",
+      "evidence": "Syllabus and recurring previous-paper topic"
+    },
+    {
+      "number": 24,
+      "section": "Reasoning",
+      "topic": "Syllogism",
+      "difficulty": "Medium",
+      "prompt": "Statements: All pens are books. Some books are papers. Conclusions: I. Some pens are papers. II. All pens are books.",
+      "options": [
+        "Only I follows",
+        "Only II follows",
+        "Both follow",
+        "Neither follows"
+      ],
+      "answer": "Only II follows",
+      "explanation": "The first statement directly supports II; overlap of pens and papers is not certain.",
+      "evidence": "Syllabus and recurring previous-paper topic"
+    },
+    {
+      "number": 25,
+      "section": "Reasoning",
+      "topic": "Coding-Decoding",
+      "difficulty": "Medium",
+      "prompt": "If BANK is coded as 2-1-14-11, how is LOAN coded using alphabet positions?",
+      "options": [
+        "12-15-1-14",
+        "11-15-1-13",
+        "12-14-1-15",
+        "13-15-2-14"
+      ],
+      "answer": "12-15-1-14",
+      "explanation": "Use the alphabet position of each letter.",
+      "evidence": "Syllabus and recurring previous-paper topic"
+    },
+    {
+      "number": 26,
+      "section": "Reasoning",
+      "topic": "Coding-Decoding",
+      "difficulty": "Medium",
+      "prompt": "If BANK is coded as 2-1-14-11, how is LOAN coded using alphabet positions?",
+      "options": [
+        "12-15-1-14",
+        "11-15-1-13",
+        "12-14-1-15",
+        "13-15-2-14"
+      ],
+      "answer": "12-15-1-14",
+      "explanation": "Use the alphabet position of each letter.",
+      "evidence": "Syllabus and recurring previous-paper topic"
+    },
+    {
+      "number": 27,
+      "section": "Reasoning",
+      "topic": "Alphabet Test",
+      "difficulty": "Easy",
+      "prompt": "How many letters are between the 5th letter from the left and the 8th letter from the right?",
+      "options": [
+        "12",
+        "13",
+        "14",
+        "15"
+      ],
+      "answer": "13",
+      "explanation": "The 8th from right is S; between E and S are 13 letters.",
+      "evidence": "Syllabus and recurring previous-paper topic"
+    },
+    {
+      "number": 28,
+      "section": "Reasoning",
+      "topic": "Alphabet Test",
+      "difficulty": "Easy",
+      "prompt": "How many letters are between the 5th letter from the left and the 8th letter from the right?",
+      "options": [
+        "12",
+        "13",
+        "14",
+        "15"
+      ],
+      "answer": "13",
+      "explanation": "The 8th from right is S; between E and S are 13 letters.",
+      "evidence": "Syllabus and recurring previous-paper topic"
+    },
+    {
+      "number": 29,
+      "section": "Reasoning",
+      "topic": "Seating Arrangement",
+      "difficulty": "Hard",
+      "prompt": "Five people P, Q, R, S and T sit in a row. P is left of Q, R is right of Q, and S is between P and Q. Who is in the middle?",
+      "options": [
+        "P",
+        "Q",
+        "R",
+        "S"
+      ],
+      "answer": "S",
+      "explanation": "The order is P-S-Q-R with T at an end; S occupies the central position among the constrained four.",
+      "evidence": "Syllabus and recurring previous-paper topic"
+    },
+    {
+      "number": 30,
+      "section": "Reasoning",
+      "topic": "Blood Relation",
+      "difficulty": "Easy",
+      "prompt": "Ravi says, 'She is the daughter of the only son of my grandfather.' The woman is Ravi's:",
+      "options": [
+        "Sister",
+        "Mother",
+        "Daughter",
+        "Aunt"
+      ],
+      "answer": "Sister",
+      "explanation": "The only son of Ravi's grandfather is Ravi's father; his daughter is Ravi's sister.",
+      "evidence": "Syllabus and recurring previous-paper topic"
+    },
+    {
+      "number": 31,
+      "section": "Reasoning",
+      "topic": "Series",
+      "difficulty": "Medium",
+      "prompt": "Find the missing term: B, E, I, N, T, ?",
+      "options": [
+        "Y",
+        "Z",
+        "A",
+        "C"
+      ],
+      "answer": "A",
+      "explanation": "Letter jumps are +3, +4, +5, +6, then +7 with cyclic alphabet, giving A.",
+      "evidence": "Syllabus and recurring previous-paper topic"
+    },
+    {
+      "number": 32,
+      "section": "Reasoning",
+      "topic": "Inequality",
+      "difficulty": "Easy",
+      "prompt": "If P > Q = R >= S, which is definitely true?",
+      "options": [
+        "P < S",
+        "P > S",
+        "Q < S",
+        "R > P"
+      ],
+      "answer": "P > S",
+      "explanation": "P is greater than Q and Q is at least S, so P is greater than S.",
+      "evidence": "Syllabus and recurring previous-paper topic"
+    },
+    {
+      "number": 33,
+      "section": "Reasoning",
+      "topic": "Blood Relation",
+      "difficulty": "Easy",
+      "prompt": "Ravi says, 'She is the daughter of the only son of my grandfather.' The woman is Ravi's:",
+      "options": [
+        "Sister",
+        "Mother",
+        "Daughter",
+        "Aunt"
+      ],
+      "answer": "Sister",
+      "explanation": "The only son of Ravi's grandfather is Ravi's father; his daughter is Ravi's sister.",
+      "evidence": "Syllabus and recurring previous-paper topic"
+    },
+    {
+      "number": 34,
+      "section": "Reasoning",
+      "topic": "Analogy",
+      "difficulty": "Easy",
+      "prompt": "Book : Read :: Food : ?",
+      "options": [
+        "Cook",
+        "Eat",
+        "Serve",
+        "Buy"
+      ],
+      "answer": "Eat",
+      "explanation": "A book is read; food is eaten.",
+      "evidence": "Syllabus and recurring previous-paper topic"
+    },
+    {
+      "number": 35,
+      "section": "Reasoning",
+      "topic": "Series",
+      "difficulty": "Medium",
+      "prompt": "Find the missing term: B, E, I, N, T, ?",
+      "options": [
+        "Y",
+        "Z",
+        "A",
+        "C"
+      ],
+      "answer": "A",
+      "explanation": "Letter jumps are +3, +4, +5, +6, then +7 with cyclic alphabet, giving A.",
+      "evidence": "Syllabus and recurring previous-paper topic"
+    },
+    {
+      "number": 36,
+      "section": "Reasoning",
+      "topic": "Syllogism",
+      "difficulty": "Medium",
+      "prompt": "Statements: All pens are books. Some books are papers. Conclusions: I. Some pens are papers. II. All pens are books.",
+      "options": [
+        "Only I follows",
+        "Only II follows",
+        "Both follow",
+        "Neither follows"
+      ],
+      "answer": "Only II follows",
+      "explanation": "The first statement directly supports II; overlap of pens and papers is not certain.",
+      "evidence": "Syllabus and recurring previous-paper topic"
+    },
+    {
+      "number": 37,
+      "section": "Reasoning",
+      "topic": "Series",
+      "difficulty": "Medium",
+      "prompt": "Find the missing term: B, E, I, N, T, ?",
+      "options": [
+        "Y",
+        "Z",
+        "A",
+        "C"
+      ],
+      "answer": "A",
+      "explanation": "Letter jumps are +3, +4, +5, +6, then +7 with cyclic alphabet, giving A.",
+      "evidence": "Syllabus and recurring previous-paper topic"
+    },
+    {
+      "number": 38,
+      "section": "Reasoning",
+      "topic": "Order and Ranking",
+      "difficulty": "Easy",
+      "prompt": "In a class of 40, Meena is 12th from the top. Her rank from the bottom is:",
+      "options": [
+        "27th",
+        "28th",
+        "29th",
+        "30th"
+      ],
+      "answer": "29th",
+      "explanation": "Bottom rank = 40 - 12 + 1 = 29.",
+      "evidence": "Syllabus and recurring previous-paper topic"
+    },
+    {
+      "number": 39,
+      "section": "Reasoning",
+      "topic": "Order and Ranking",
+      "difficulty": "Easy",
+      "prompt": "In a class of 40, Meena is 12th from the top. Her rank from the bottom is:",
+      "options": [
+        "27th",
+        "28th",
+        "29th",
+        "30th"
+      ],
+      "answer": "29th",
+      "explanation": "Bottom rank = 40 - 12 + 1 = 29.",
+      "evidence": "Syllabus and recurring previous-paper topic"
+    },
+    {
+      "number": 40,
+      "section": "Reasoning",
+      "topic": "Alphabet Test",
+      "difficulty": "Easy",
+      "prompt": "How many letters are between the 5th letter from the left and the 8th letter from the right?",
+      "options": [
+        "12",
+        "13",
+        "14",
+        "15"
+      ],
+      "answer": "13",
+      "explanation": "The 8th from right is S; between E and S are 13 letters.",
+      "evidence": "Syllabus and recurring previous-paper topic"
+    },
+    {
+      "number": 41,
+      "section": "Numerical Ability",
+      "topic": "Data Interpretation",
+      "difficulty": "Medium",
+      "prompt": "A shop sells 120, 150 and 180 units on three days. The average sale is:",
+      "options": [
+        "140",
+        "145",
+        "150",
+        "160"
+      ],
+      "answer": "150",
+      "explanation": "Total 450 divided by 3 equals 150.",
+      "evidence": "Syllabus and recurring previous-paper topic"
+    },
+    {
+      "number": 42,
+      "section": "Numerical Ability",
+      "topic": "Simplification",
+      "difficulty": "Easy",
+      "prompt": "25% of 240 + 3/5 of 100 = ?",
+      "options": [
+        "100",
+        "120",
+        "140",
+        "160"
+      ],
+      "answer": "120",
+      "explanation": "25% of 240 is 60 and 3/5 of 100 is 60; total 120.",
+      "evidence": "Syllabus and recurring previous-paper topic"
+    },
+    {
+      "number": 43,
+      "section": "Numerical Ability",
+      "topic": "Geometry",
+      "difficulty": "Medium",
+      "prompt": "The angles of a triangle are in the ratio 2:3:4. The largest angle is:",
+      "options": [
+        "60 degrees",
+        "70 degrees",
+        "80 degrees",
+        "90 degrees"
+      ],
+      "answer": "80 degrees",
+      "explanation": "Nine parts equal 180 degrees, so one part is 20 and the largest is 80.",
+      "evidence": "Syllabus and recurring previous-paper topic"
+    },
+    {
+      "number": 44,
+      "section": "Numerical Ability",
+      "topic": "Percentage",
+      "difficulty": "Medium",
+      "prompt": "A number increased by 20% becomes 360. The original number is:",
+      "options": [
+        "280",
+        "300",
+        "320",
+        "340"
+      ],
+      "answer": "300",
+      "explanation": "Original = 360/1.20 = 300.",
+      "evidence": "Syllabus and recurring previous-paper topic"
+    },
+    {
+      "number": 45,
+      "section": "Numerical Ability",
+      "topic": "Quadratic Equation",
+      "difficulty": "Hard",
+      "prompt": "The positive root of x^2 - 9x + 20 = 0 is:",
+      "options": [
+        "4",
+        "5",
+        "6",
+        "8"
+      ],
+      "answer": "5",
+      "explanation": "Factors are (x-4)(x-5); positive roots are 4 and 5, and the requested larger positive root is 5.",
+      "evidence": "Syllabus and recurring previous-paper topic"
+    },
+    {
+      "number": 46,
+      "section": "Numerical Ability",
+      "topic": "Time and Work",
+      "difficulty": "Medium",
+      "prompt": "A can finish a task in 12 days and B in 18 days. Together they take:",
+      "options": [
+        "6 days",
+        "7 1/5 days",
+        "8 days",
+        "9 days"
+      ],
+      "answer": "7 1/5 days",
+      "explanation": "Combined rate is 1/12 + 1/18 = 5/36, so time is 36/5 days.",
+      "evidence": "Syllabus and recurring previous-paper topic"
+    },
+    {
+      "number": 47,
+      "section": "Numerical Ability",
+      "topic": "Ratio",
+      "difficulty": "Easy",
+      "prompt": "If A:B = 3:5 and B:C = 10:7, then A:C is:",
+      "options": [
+        "3:7",
+        "6:7",
+        "7:6",
+        "5:7"
+      ],
+      "answer": "6:7",
+      "explanation": "Make B common: 3:5 = 6:10, hence A:C = 6:7.",
+      "evidence": "Syllabus and recurring previous-paper topic"
+    },
+    {
+      "number": 48,
+      "section": "Numerical Ability",
+      "topic": "Quadratic Equation",
+      "difficulty": "Hard",
+      "prompt": "The positive root of x^2 - 9x + 20 = 0 is:",
+      "options": [
+        "4",
+        "5",
+        "6",
+        "8"
+      ],
+      "answer": "5",
+      "explanation": "Factors are (x-4)(x-5); positive roots are 4 and 5, and the requested larger positive root is 5.",
+      "evidence": "Syllabus and recurring previous-paper topic"
+    },
+    {
+      "number": 49,
+      "section": "Numerical Ability",
+      "topic": "Ratio",
+      "difficulty": "Easy",
+      "prompt": "If A:B = 3:5 and B:C = 10:7, then A:C is:",
+      "options": [
+        "3:7",
+        "6:7",
+        "7:6",
+        "5:7"
+      ],
+      "answer": "6:7",
+      "explanation": "Make B common: 3:5 = 6:10, hence A:C = 6:7.",
+      "evidence": "Syllabus and recurring previous-paper topic"
+    },
+    {
+      "number": 50,
+      "section": "Numerical Ability",
+      "topic": "Profit and Loss",
+      "difficulty": "Medium",
+      "prompt": "An article bought for Rs. 800 is sold for Rs. 920. Profit percentage is:",
+      "options": [
+        "12%",
+        "15%",
+        "18%",
+        "20%"
+      ],
+      "answer": "15%",
+      "explanation": "Profit is 120; 120/800 x 100 = 15%.",
+      "evidence": "Syllabus and recurring previous-paper topic"
+    },
+    {
+      "number": 51,
+      "section": "Numerical Ability",
+      "topic": "Time and Work",
+      "difficulty": "Medium",
+      "prompt": "A can finish a task in 12 days and B in 18 days. Together they take:",
+      "options": [
+        "6 days",
+        "7 1/5 days",
+        "8 days",
+        "9 days"
+      ],
+      "answer": "7 1/5 days",
+      "explanation": "Combined rate is 1/12 + 1/18 = 5/36, so time is 36/5 days.",
+      "evidence": "Syllabus and recurring previous-paper topic"
+    },
+    {
+      "number": 52,
+      "section": "Numerical Ability",
+      "topic": "Speed, Distance and Time",
+      "difficulty": "Medium",
+      "prompt": "A train covers 360 km in 4.5 hours. Its speed is:",
+      "options": [
+        "72 km/h",
+        "80 km/h",
+        "90 km/h",
+        "96 km/h"
+      ],
+      "answer": "80 km/h",
+      "explanation": "Speed = 360/4.5 = 80 km/h.",
+      "evidence": "Syllabus and recurring previous-paper topic"
+    },
+    {
+      "number": 53,
+      "section": "Numerical Ability",
+      "topic": "Simplification",
+      "difficulty": "Easy",
+      "prompt": "25% of 240 + 3/5 of 100 = ?",
+      "options": [
+        "100",
+        "120",
+        "140",
+        "160"
+      ],
+      "answer": "120",
+      "explanation": "25% of 240 is 60 and 3/5 of 100 is 60; total 120.",
+      "evidence": "Syllabus and recurring previous-paper topic"
+    },
+    {
+      "number": 54,
+      "section": "Numerical Ability",
+      "topic": "Percentage",
+      "difficulty": "Medium",
+      "prompt": "A number increased by 20% becomes 360. The original number is:",
+      "options": [
+        "280",
+        "300",
+        "320",
+        "340"
+      ],
+      "answer": "300",
+      "explanation": "Original = 360/1.20 = 300.",
+      "evidence": "Syllabus and recurring previous-paper topic"
+    },
+    {
+      "number": 55,
+      "section": "Numerical Ability",
+      "topic": "Number Series",
+      "difficulty": "Medium",
+      "prompt": "Find the next number: 3, 7, 15, 31, 63, ?",
+      "options": [
+        "95",
+        "111",
+        "127",
+        "129"
+      ],
+      "answer": "127",
+      "explanation": "Each term is previous term x 2 + 1.",
+      "evidence": "Syllabus and recurring previous-paper topic"
+    },
+    {
+      "number": 56,
+      "section": "Numerical Ability",
+      "topic": "Average",
+      "difficulty": "Easy",
+      "prompt": "The average of 8, 12, 15, 21 and 24 is:",
+      "options": [
+        "14",
+        "16",
+        "18",
+        "20"
+      ],
+      "answer": "16",
+      "explanation": "Sum is 80; 80/5 = 16.",
+      "evidence": "Syllabus and recurring previous-paper topic"
+    },
+    {
+      "number": 57,
+      "section": "Numerical Ability",
+      "topic": "Profit and Loss",
+      "difficulty": "Medium",
+      "prompt": "An article bought for Rs. 800 is sold for Rs. 920. Profit percentage is:",
+      "options": [
+        "12%",
+        "15%",
+        "18%",
+        "20%"
+      ],
+      "answer": "15%",
+      "explanation": "Profit is 120; 120/800 x 100 = 15%.",
+      "evidence": "Syllabus and recurring previous-paper topic"
+    },
+    {
+      "number": 58,
+      "section": "Numerical Ability",
+      "topic": "Speed, Distance and Time",
+      "difficulty": "Medium",
+      "prompt": "A train covers 360 km in 4.5 hours. Its speed is:",
+      "options": [
+        "72 km/h",
+        "80 km/h",
+        "90 km/h",
+        "96 km/h"
+      ],
+      "answer": "80 km/h",
+      "explanation": "Speed = 360/4.5 = 80 km/h.",
+      "evidence": "Syllabus and recurring previous-paper topic"
+    },
+    {
+      "number": 59,
+      "section": "Numerical Ability",
+      "topic": "Percentage",
+      "difficulty": "Medium",
+      "prompt": "A number increased by 20% becomes 360. The original number is:",
+      "options": [
+        "280",
+        "300",
+        "320",
+        "340"
+      ],
+      "answer": "300",
+      "explanation": "Original = 360/1.20 = 300.",
+      "evidence": "Syllabus and recurring previous-paper topic"
+    },
+    {
+      "number": 60,
+      "section": "Numerical Ability",
+      "topic": "Geometry",
+      "difficulty": "Medium",
+      "prompt": "The angles of a triangle are in the ratio 2:3:4. The largest angle is:",
+      "options": [
+        "60 degrees",
+        "70 degrees",
+        "80 degrees",
+        "90 degrees"
+      ],
+      "answer": "80 degrees",
+      "explanation": "Nine parts equal 180 degrees, so one part is 20 and the largest is 80.",
+      "evidence": "Syllabus and recurring previous-paper topic"
+    },
+    {
+      "number": 61,
+      "section": "Numerical Ability",
+      "topic": "Speed, Distance and Time",
+      "difficulty": "Medium",
+      "prompt": "A train covers 360 km in 4.5 hours. Its speed is:",
+      "options": [
+        "72 km/h",
+        "80 km/h",
+        "90 km/h",
+        "96 km/h"
+      ],
+      "answer": "80 km/h",
+      "explanation": "Speed = 360/4.5 = 80 km/h.",
+      "evidence": "Syllabus and recurring previous-paper topic"
+    },
+    {
+      "number": 62,
+      "section": "Numerical Ability",
+      "topic": "Geometry",
+      "difficulty": "Medium",
+      "prompt": "The angles of a triangle are in the ratio 2:3:4. The largest angle is:",
+      "options": [
+        "60 degrees",
+        "70 degrees",
+        "80 degrees",
+        "90 degrees"
+      ],
+      "answer": "80 degrees",
+      "explanation": "Nine parts equal 180 degrees, so one part is 20 and the largest is 80.",
+      "evidence": "Syllabus and recurring previous-paper topic"
+    },
+    {
+      "number": 63,
+      "section": "Numerical Ability",
+      "topic": "Ratio",
+      "difficulty": "Easy",
+      "prompt": "If A:B = 3:5 and B:C = 10:7, then A:C is:",
+      "options": [
+        "3:7",
+        "6:7",
+        "7:6",
+        "5:7"
+      ],
+      "answer": "6:7",
+      "explanation": "Make B common: 3:5 = 6:10, hence A:C = 6:7.",
+      "evidence": "Syllabus and recurring previous-paper topic"
+    },
+    {
+      "number": 64,
+      "section": "Numerical Ability",
+      "topic": "Quadratic Equation",
+      "difficulty": "Hard",
+      "prompt": "The positive root of x^2 - 9x + 20 = 0 is:",
+      "options": [
+        "4",
+        "5",
+        "6",
+        "8"
+      ],
+      "answer": "5",
+      "explanation": "Factors are (x-4)(x-5); positive roots are 4 and 5, and the requested larger positive root is 5.",
+      "evidence": "Syllabus and recurring previous-paper topic"
+    },
+    {
+      "number": 65,
+      "section": "Numerical Ability",
+      "topic": "Time and Work",
+      "difficulty": "Medium",
+      "prompt": "A can finish a task in 12 days and B in 18 days. Together they take:",
+      "options": [
+        "6 days",
+        "7 1/5 days",
+        "8 days",
+        "9 days"
+      ],
+      "answer": "7 1/5 days",
+      "explanation": "Combined rate is 1/12 + 1/18 = 5/36, so time is 36/5 days.",
+      "evidence": "Syllabus and recurring previous-paper topic"
+    },
+    {
+      "number": 66,
+      "section": "Numerical Ability",
+      "topic": "Simple Interest",
+      "difficulty": "Medium",
+      "prompt": "Simple interest on Rs. 5,000 at 8% per annum for 2 years is:",
+      "options": [
+        "Rs. 400",
+        "Rs. 600",
+        "Rs. 800",
+        "Rs. 900"
+      ],
+      "answer": "Rs. 800",
+      "explanation": "SI = 5000 x 8 x 2 / 100 = 800.",
+      "evidence": "Syllabus and recurring previous-paper topic"
+    },
+    {
+      "number": 67,
+      "section": "Numerical Ability",
+      "topic": "Simple Interest",
+      "difficulty": "Medium",
+      "prompt": "Simple interest on Rs. 5,000 at 8% per annum for 2 years is:",
+      "options": [
+        "Rs. 400",
+        "Rs. 600",
+        "Rs. 800",
+        "Rs. 900"
+      ],
+      "answer": "Rs. 800",
+      "explanation": "SI = 5000 x 8 x 2 / 100 = 800.",
+      "evidence": "Syllabus and recurring previous-paper topic"
+    },
+    {
+      "number": 68,
+      "section": "Numerical Ability",
+      "topic": "Ratio",
+      "difficulty": "Easy",
+      "prompt": "If A:B = 3:5 and B:C = 10:7, then A:C is:",
+      "options": [
+        "3:7",
+        "6:7",
+        "7:6",
+        "5:7"
+      ],
+      "answer": "6:7",
+      "explanation": "Make B common: 3:5 = 6:10, hence A:C = 6:7.",
+      "evidence": "Syllabus and recurring previous-paper topic"
+    },
+    {
+      "number": 69,
+      "section": "Numerical Ability",
+      "topic": "Number Series",
+      "difficulty": "Medium",
+      "prompt": "Find the next number: 3, 7, 15, 31, 63, ?",
+      "options": [
+        "95",
+        "111",
+        "127",
+        "129"
+      ],
+      "answer": "127",
+      "explanation": "Each term is previous term x 2 + 1.",
+      "evidence": "Syllabus and recurring previous-paper topic"
+    },
+    {
+      "number": 70,
+      "section": "Numerical Ability",
+      "topic": "Average",
+      "difficulty": "Easy",
+      "prompt": "The average of 8, 12, 15, 21 and 24 is:",
+      "options": [
+        "14",
+        "16",
+        "18",
+        "20"
+      ],
+      "answer": "16",
+      "explanation": "Sum is 80; 80/5 = 16.",
+      "evidence": "Syllabus and recurring previous-paper topic"
+    },
+    {
+      "number": 71,
+      "section": "Numerical Ability",
+      "topic": "Percentage",
+      "difficulty": "Medium",
+      "prompt": "A number increased by 20% becomes 360. The original number is:",
+      "options": [
+        "280",
+        "300",
+        "320",
+        "340"
+      ],
+      "answer": "300",
+      "explanation": "Original = 360/1.20 = 300.",
+      "evidence": "Syllabus and recurring previous-paper topic"
+    },
+    {
+      "number": 72,
+      "section": "Numerical Ability",
+      "topic": "Number Series",
+      "difficulty": "Medium",
+      "prompt": "Find the next number: 3, 7, 15, 31, 63, ?",
+      "options": [
+        "95",
+        "111",
+        "127",
+        "129"
+      ],
+      "answer": "127",
+      "explanation": "Each term is previous term x 2 + 1.",
+      "evidence": "Syllabus and recurring previous-paper topic"
+    },
+    {
+      "number": 73,
+      "section": "Numerical Ability",
+      "topic": "Simplification",
+      "difficulty": "Easy",
+      "prompt": "25% of 240 + 3/5 of 100 = ?",
+      "options": [
+        "100",
+        "120",
+        "140",
+        "160"
+      ],
+      "answer": "120",
+      "explanation": "25% of 240 is 60 and 3/5 of 100 is 60; total 120.",
+      "evidence": "Syllabus and recurring previous-paper topic"
+    },
+    {
+      "number": 74,
+      "section": "Numerical Ability",
+      "topic": "Simplification",
+      "difficulty": "Easy",
+      "prompt": "25% of 240 + 3/5 of 100 = ?",
+      "options": [
+        "100",
+        "120",
+        "140",
+        "160"
+      ],
+      "answer": "120",
+      "explanation": "25% of 240 is 60 and 3/5 of 100 is 60; total 120.",
+      "evidence": "Syllabus and recurring previous-paper topic"
+    },
+    {
+      "number": 75,
+      "section": "Numerical Ability",
+      "topic": "Average",
+      "difficulty": "Easy",
+      "prompt": "The average of 8, 12, 15, 21 and 24 is:",
+      "options": [
+        "14",
+        "16",
+        "18",
+        "20"
+      ],
+      "answer": "16",
+      "explanation": "Sum is 80; 80/5 = 16.",
+      "evidence": "Syllabus and recurring previous-paper topic"
+    },
+    {
+      "number": 76,
+      "section": "Numerical Ability",
+      "topic": "Profit and Loss",
+      "difficulty": "Medium",
+      "prompt": "An article bought for Rs. 800 is sold for Rs. 920. Profit percentage is:",
+      "options": [
+        "12%",
+        "15%",
+        "18%",
+        "20%"
+      ],
+      "answer": "15%",
+      "explanation": "Profit is 120; 120/800 x 100 = 15%.",
+      "evidence": "Syllabus and recurring previous-paper topic"
+    },
+    {
+      "number": 77,
+      "section": "Numerical Ability",
+      "topic": "Data Interpretation",
+      "difficulty": "Medium",
+      "prompt": "A shop sells 120, 150 and 180 units on three days. The average sale is:",
+      "options": [
+        "140",
+        "145",
+        "150",
+        "160"
+      ],
+      "answer": "150",
+      "explanation": "Total 450 divided by 3 equals 150.",
+      "evidence": "Syllabus and recurring previous-paper topic"
+    },
+    {
+      "number": 78,
+      "section": "Numerical Ability",
+      "topic": "Data Interpretation",
+      "difficulty": "Medium",
+      "prompt": "A shop sells 120, 150 and 180 units on three days. The average sale is:",
+      "options": [
+        "140",
+        "145",
+        "150",
+        "160"
+      ],
+      "answer": "150",
+      "explanation": "Total 450 divided by 3 equals 150.",
+      "evidence": "Syllabus and recurring previous-paper topic"
+    },
+    {
+      "number": 79,
+      "section": "Numerical Ability",
+      "topic": "Profit and Loss",
+      "difficulty": "Medium",
+      "prompt": "An article bought for Rs. 800 is sold for Rs. 920. Profit percentage is:",
+      "options": [
+        "12%",
+        "15%",
+        "18%",
+        "20%"
+      ],
+      "answer": "15%",
+      "explanation": "Profit is 120; 120/800 x 100 = 15%.",
+      "evidence": "Syllabus and recurring previous-paper topic"
+    },
+    {
+      "number": 80,
+      "section": "Numerical Ability",
+      "topic": "Simple Interest",
+      "difficulty": "Medium",
+      "prompt": "Simple interest on Rs. 5,000 at 8% per annum for 2 years is:",
+      "options": [
+        "Rs. 400",
+        "Rs. 600",
+        "Rs. 800",
+        "Rs. 900"
+      ],
+      "answer": "Rs. 800",
+      "explanation": "SI = 5000 x 8 x 2 / 100 = 800.",
+      "evidence": "Syllabus and recurring previous-paper topic"
+    }
+  ],
+  "analysis_note": "Topic weighting follows the official syllabus and recurring previous-paper patterns; it is not a prediction of exact questions."
+}

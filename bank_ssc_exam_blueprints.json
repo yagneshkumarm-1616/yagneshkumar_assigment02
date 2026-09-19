@@ -1,0 +1,111 @@
+{
+  "source_policy": {
+    "official_sources": [
+      "https://sbi.co.in/web/careers/current-openings",
+      "https://ssc.gov.in/",
+      "https://www.ibps.in/"
+    ],
+    "trend_sources": [
+      "Recent previous-paper reviews from Adda247, BankersAdda, and Testbook"
+    ],
+    "prediction_disclaimer": "Recurring topics are preparation priorities, not a guarantee that any exact question will appear."
+  },
+  "exams": {
+    "sbi_clerk": {
+      "name": "SBI Clerk",
+      "model_stage": "Prelims",
+      "pattern": {
+        "sections": [
+          {"name": "English Language", "questions": 30, "marks": 30, "minutes": 20},
+          {"name": "Numerical Ability", "questions": 35, "marks": 35, "minutes": 20},
+          {"name": "Reasoning Ability", "questions": 35, "marks": 35, "minutes": 20}
+        ],
+        "total_questions": 100,
+        "total_marks": 100,
+        "minutes": 60,
+        "negative_mark": 0.25
+      },
+      "mains_pattern": {
+        "sections": [
+          {"name": "General/Financial Awareness", "questions": 50, "marks": 50},
+          {"name": "General English", "questions": 40, "marks": 40},
+          {"name": "Quantitative Aptitude", "questions": 50, "marks": 50},
+          {"name": "Reasoning Ability & Computer Aptitude", "questions": 50, "marks": 60}
+        ],
+        "total_questions": 190,
+        "total_marks": 200,
+        "minutes": 160,
+        "negative_mark": 0.25
+      },
+      "syllabus": {
+        "English Language": ["reading comprehension", "cloze test", "error spotting", "fillers", "sentence improvement", "para jumbles", "vocabulary"],
+        "Numerical Ability": ["simplification", "number series", "quadratic equations", "arithmetic", "data interpretation", "percentage", "ratio", "profit and loss", "time and work", "speed distance time", "simple and compound interest"],
+        "Reasoning Ability": ["puzzles", "seating arrangement", "syllogism", "inequality", "coding-decoding", "blood relation", "direction", "alphanumeric series", "order and ranking"],
+        "Mains additions": ["banking awareness", "financial awareness", "computer basics", "MS Office", "internet and networking"]
+      },
+      "priority_topics": ["puzzles and seating", "arithmetic and DI", "RC/cloze", "banking and financial awareness"]
+    },
+    "ssc_cgl": {
+      "name": "SSC CGL",
+      "model_stage": "Tier-I",
+      "pattern": {
+        "sections": [
+          {"name": "General Intelligence & Reasoning", "questions": 25, "marks": 50},
+          {"name": "General Awareness", "questions": 25, "marks": 50},
+          {"name": "Quantitative Aptitude", "questions": 25, "marks": 50},
+          {"name": "English Comprehension", "questions": 25, "marks": 50}
+        ],
+        "total_questions": 100,
+        "total_marks": 200,
+        "minutes": 60,
+        "negative_mark": 0.5
+      },
+      "tier_ii_note": "Tier-II Paper-I is common for most posts; Statistics and Finance/Economics papers are post-specific.",
+      "tier_ii_pattern": {
+        "paper_i": ["Quantitative Abilities: 100 questions, 200 marks", "English Language & Comprehension: 200 marks"],
+        "paper_ii": "Statistics for JSO and specified posts",
+        "paper_iii": "General Studies (Finance & Economics) for specified posts"
+      },
+      "syllabus": {
+        "General Intelligence & Reasoning": ["analogy", "classification", "series", "coding-decoding", "blood relation", "direction", "syllogism", "Venn diagram", "mirror and paper folding", "embedded figures"],
+        "General Awareness": ["current affairs", "history", "polity", "geography", "economy", "general science", "static GK"],
+        "Quantitative Aptitude": ["number system", "percentage", "ratio", "average", "profit and loss", "SI and CI", "time work", "time distance", "algebra", "geometry", "mensuration", "trigonometry", "DI"],
+        "English Comprehension": ["vocabulary", "grammar", "error spotting", "fillers", "sentence improvement", "active passive", "direct indirect", "cloze", "reading comprehension", "para jumbles"]
+      },
+      "priority_topics": ["arithmetic", "grammar and vocabulary", "polity/economy/science", "series and coding", "geometry and mensuration"]
+    },
+    "ibps_rrb_clerk": {
+      "name": "IBPS RRB Office Assistant (Clerk)",
+      "model_stage": "Prelims",
+      "pattern": {
+        "sections": [
+          {"name": "Reasoning", "questions": 40, "marks": 40, "minutes": 25},
+          {"name": "Numerical Ability", "questions": 40, "marks": 40, "minutes": 20}
+        ],
+        "total_questions": 80,
+        "total_marks": 80,
+        "minutes": 45,
+        "negative_mark": 0.25
+      },
+      "mains_pattern": {
+        "sections": [
+          {"name": "Reasoning", "questions": 40, "marks": 50},
+          {"name": "Quantitative Aptitude", "questions": 40, "marks": 50},
+          {"name": "General Awareness", "questions": 40, "marks": 40},
+          {"name": "English/Hindi Language", "questions": 40, "marks": 40},
+          {"name": "Computer Knowledge", "questions": 40, "marks": 20}
+        ],
+        "total_questions": 200,
+        "total_marks": 200,
+        "minutes": 120,
+        "negative_mark": 0.25
+      },
+      "syllabus": {
+        "Reasoning": ["puzzles", "seating arrangement", "inequality", "syllogism", "coding-decoding", "blood relation", "direction", "series", "order and ranking"],
+        "Numerical Ability": ["simplification", "approximation", "number series", "arithmetic", "DI", "percentage", "ratio", "average", "profit and loss", "SI and CI", "time work", "speed distance time"],
+        "Mains additions": ["banking awareness", "current affairs", "English/Hindi language", "computer fundamentals", "MS Office", "internet and networking"]
+      },
+      "priority_topics": ["arithmetic and simplification", "puzzles and seating", "banking awareness", "computer basics"]
+    }
+  }
+}

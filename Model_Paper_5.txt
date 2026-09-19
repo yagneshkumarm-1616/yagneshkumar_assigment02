@@ -1,0 +1,231 @@
+==========================================================================================
+GSSSB CLASS-3 MODEL PAPER 5
+Date: 2026-09-18 11:35
+==========================================================================================
+Total Questions: 75 | Total Marks: 75 | Time: 60 minutes
+Negative Marking: -0.25 per wrong answer
+------------------------------------------------------------------------------------------
+
+Q1. [General Awareness - Medium] Indian Geography
+Which country shares the longest border with India?
+    A) China
+    B) Pakistan
+    C) Bangladesh
+    D) Nepal
+
+Q2. [English - Easy] Adjectives & Adverbs
+Fill: She sang _____ and danced all night
+    A) beautiful
+    B) beautifully
+    C) beauty
+    D) beautify
+
+Q3. [General Awareness - Medium] Indian History
+Who wrote the Indian Constitution?
+    A) Jawaharlal Nehru
+    B) B.R. Ambedkar
+    C) Rajendra Prasad
+    D) Sardar Patel
+
+Q4. [Quantitative Aptitude - Medium] Speed, Distance, Time
+A man covers 50 km in 10 hours. What is his speed in km/hr?
+    A) 3
+    B) 4
+    C) 5
+    D) 6
+
+Q5. [Quantitative Aptitude - Medium] Probability - Compound
+Two dice are thrown. What is probability of getting sum = 7?
+    A) 1/6
+    B) 1/12
+    C) 1/18
+    D) 1/36
+
+Q6. [Quantitative Aptitude - Medium] Profit & Loss - Basic
+A shopkeeper buys a shirt for Rs. 400 and sells it for Rs. 600. What is profit%?
+    A) 25%
+    B) 33.33%
+    C) 50%
+    D) 60%
+
+Q7. [General Awareness - Medium] Indian History
+Who was the first Prime Minister of India?
+    A) Jawaharlal Nehru
+    B) Sardar Patel
+    C) Subhas Chandra Bose
+    D) Mahatma Gandhi
+
+Q8. [English - Easy] Prepositions - Common
+Fill: She is good _____ Mathematics
+    A) at
+    B) in
+    C) on
+    D) for
+
+Q9. [English - Medium] Voice - Passive
+Convert to Passive: They built this house in 1990
+    A) This house was built in 1990
+    B) This house is built in 1990
+    C) This house has been built in 1990
+    D) This house will be built in 1990
+
+Q10. [Quantitative Aptitude - Hard] Profit & Loss - Advanced
+Two items are sold at equal selling price. One at 20% profit, other at 20% loss. What is net loss%?
+    A) 4%
+    B) 5%
+    C) 10%
+    D) 20%
+
+Q11. [English - Easy] Articles - Usage
+Choose correct article: I need _____ honest person
+    A) a
+    B) an
+    C) the
+    D) no article
+
+Q12. [General Awareness - Easy] Indian Geography
+What is the capital of Gujarat?
+    A) Ahmedabad
+    B) Gandhinagar
+    C) Vadodara
+    D) Rajkot
+
+Q13. [English - Medium] Direct & Indirect Speech
+Convert: 'I said, I am going home'
+    A) I said that I am going home
+    B) I said that I was going home
+    C) I said I would go home
+    D) I told I am going home
+
+Q14. [General Awareness - Easy] Current Affairs - Politics
+Who is the current President of India?
+    A) Narendra Modi
+    B) Rajendra Prasad
+    C) Droupadi Murmu
+    D) Ram Nath Kovind
+
+Q15. [General Awareness - Medium] Indian History
+In which year did India become a Republic?
+    A) 1947
+    B) 1950
+    C) 1952
+    D) 1956
+
+Q16. [General Awareness - Easy] Indian Geography
+Which is the highest mountain peak in India?
+    A) Kangchenjunga
+    B) Makalu
+    C) Kanchenjunga
+    D) Nanda Devi
+
+Q17. [English - Medium] Subject-Verb Agreement
+Identify error: He have completed his work
+    A) He
+    B) have
+    C) completed
+    D) No error
+
+Q18. [Quantitative Aptitude - Easy] Number System - LCM/HCF
+Find HCF of 48 and 64
+    A) 8
+    B) 16
+    C) 32
+    D) 64
+
+Q19. [Quantitative Aptitude - Easy] Probability - Basic
+What is probability of getting head in coin toss?
+    A) 0.25
+    B) 0.5
+    C) 0.75
+    D) 1
+
+Q20. [Quantitative Aptitude - Easy] Number System - LCM/HCF
+What is the LCM of 12, 18, and 24?
+    A) 36
+    B) 48
+    C) 72
+    D) 96
+
+Q21. [Quantitative Aptitude - Easy] Average - Simple
+Average of 5, 10, 15, 20, 25 = ?
+    A) 10
+    B) 12
+    C) 15
+    D) 20
+
+Q22. [Quantitative Aptitude - Medium] Percentage - Basic
+What is 25% of 80?
+    A) 15
+    B) 20
+    C) 25
+    D) 30
+
+Q23. [English - Easy] Tenses - Simple Past
+Choose the correct sentence:
+    A) He goes to school yesterday
+    B) He went to school yesterday
+    C) He is going to school yesterday
+    D) He has gone to school yesterday
+
+Q24. [General Awareness - Easy] Indian Geography
+How many states are there in India?
+    A) 25
+    B) 28
+    C) 29
+    D) 30
+
+Q25. [Quantitative Aptitude - Medium] Percentage - Comparative
+If A's income is 20% more than B's, then B's income is what % less than A's?
+    A) 16.67%
+    B) 18%
+    C) 20%
+    D) 25%
+
+Q26. [General Awareness - Easy] Indian Symbols
+What is the national animal of India?
+    A) Lion
+    B) Tiger
+    C) Peacock
+    D) Elephant
+
+Q27. [English - Medium] Conjunctions - Correlative
+Choose correct: Neither the teacher _____ the students are present
+    A) nor
+    B) or
+    C) and
+    D) but
+
+Q28. [General Awareness - Medium] Indian Geography
+Which is the longest river in India?
+    A) Godavari
+    B) Brahmaputra
+    C) Ganga
+    D) Sutlej
+
+Q29. [Quantitative Aptitude - Medium] Percentage - Basic Calculation
+15% of 800 + 20% of 500 = ?
+    A) 220
+    B) 320
+    C) 420
+    D) 520
+
+Q30. [English - Easy] Tenses - Present Perfect
+Fill: She ___ been working here for 5 years
+    A) has
+    B) have
+    C) is
+    D) was
+
+Q31. [Quantitative Aptitude - Hard] Simple Interest - Advanced
+A sum becomes 4/3 of itself in 5 years at simple interest. What is rate of interest?
+    A) 6.67%
+    B) 10%
+    C) 20%
+    D) 25%
+
+Q32. [English - Medium] Conditional Tenses
+Choose correct: If I _____ him, I would help
+    A) know
+    B) knew
+    C) will know
+    D) have known
