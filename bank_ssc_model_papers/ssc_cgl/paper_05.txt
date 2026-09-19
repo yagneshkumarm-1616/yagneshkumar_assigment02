@@ -1,0 +1,911 @@
+SSC CGL - Tier-I MODEL PAPER 5
+====================================================================================
+Questions: 100 | Marks: 200 | Time: 60 minutes
+Negative marking: -0.5 per wrong answer
+Use the official notification for the final pattern before the exam.
+
+Q1. [General Intelligence & Reasoning | Coding-Decoding | Medium]
+If BANK is coded as 2-1-14-11, how is LOAN coded using alphabet positions?
+  A) 12-15-1-14
+  B) 11-15-1-13
+  C) 12-14-1-15
+  D) 13-15-2-14
+
+Q2. [General Intelligence & Reasoning | Inequality | Easy]
+If P > Q = R >= S, which is definitely true?
+  A) P < S
+  B) P > S
+  C) Q < S
+  D) R > P
+
+Q3. [General Intelligence & Reasoning | Order and Ranking | Easy]
+In a class of 40, Meena is 12th from the top. Her rank from the bottom is:
+  A) 27th
+  B) 28th
+  C) 29th
+  D) 30th
+
+Q4. [General Intelligence & Reasoning | Alphabet Test | Easy]
+How many letters are between the 5th letter from the left and the 8th letter from the right?
+  A) 12
+  B) 13
+  C) 14
+  D) 15
+
+Q5. [General Intelligence & Reasoning | Seating Arrangement | Hard]
+Five people P, Q, R, S and T sit in a row. P is left of Q, R is right of Q, and S is between P and Q. Who is in the middle?
+  A) P
+  B) Q
+  C) R
+  D) S
+
+Q6. [General Intelligence & Reasoning | Blood Relation | Easy]
+Ravi says, 'She is the daughter of the only son of my grandfather.' The woman is Ravi's:
+  A) Sister
+  B) Mother
+  C) Daughter
+  D) Aunt
+
+Q7. [General Intelligence & Reasoning | Alphabet Test | Easy]
+How many letters are between the 5th letter from the left and the 8th letter from the right?
+  A) 12
+  B) 13
+  C) 14
+  D) 15
+
+Q8. [General Intelligence & Reasoning | Syllogism | Medium]
+Statements: All pens are books. Some books are papers. Conclusions: I. Some pens are papers. II. All pens are books.
+  A) Only I follows
+  B) Only II follows
+  C) Both follow
+  D) Neither follows
+
+Q9. [General Intelligence & Reasoning | Analogy | Easy]
+Book : Read :: Food : ?
+  A) Cook
+  B) Eat
+  C) Serve
+  D) Buy
+
+Q10. [General Intelligence & Reasoning | Direction Sense | Easy]
+A person walks 5 km north, then 3 km east, then 5 km south. He is now:
+  A) 3 km east of start
+  B) 3 km west of start
+  C) 5 km south
+  D) 8 km east
+
+Q11. [General Intelligence & Reasoning | Analogy | Easy]
+Book : Read :: Food : ?
+  A) Cook
+  B) Eat
+  C) Serve
+  D) Buy
+
+Q12. [General Intelligence & Reasoning | Blood Relation | Easy]
+Ravi says, 'She is the daughter of the only son of my grandfather.' The woman is Ravi's:
+  A) Sister
+  B) Mother
+  C) Daughter
+  D) Aunt
+
+Q13. [General Intelligence & Reasoning | Coding-Decoding | Medium]
+If BANK is coded as 2-1-14-11, how is LOAN coded using alphabet positions?
+  A) 12-15-1-14
+  B) 11-15-1-13
+  C) 12-14-1-15
+  D) 13-15-2-14
+
+Q14. [General Intelligence & Reasoning | Direction Sense | Easy]
+A person walks 5 km north, then 3 km east, then 5 km south. He is now:
+  A) 3 km east of start
+  B) 3 km west of start
+  C) 5 km south
+  D) 8 km east
+
+Q15. [General Intelligence & Reasoning | Syllogism | Medium]
+Statements: All pens are books. Some books are papers. Conclusions: I. Some pens are papers. II. All pens are books.
+  A) Only I follows
+  B) Only II follows
+  C) Both follow
+  D) Neither follows
+
+Q16. [General Intelligence & Reasoning | Seating Arrangement | Hard]
+Five people P, Q, R, S and T sit in a row. P is left of Q, R is right of Q, and S is between P and Q. Who is in the middle?
+  A) P
+  B) Q
+  C) R
+  D) S
+
+Q17. [General Intelligence & Reasoning | Series | Medium]
+Find the missing term: B, E, I, N, T, ?
+  A) Y
+  B) Z
+  C) A
+  D) C
+
+Q18. [General Intelligence & Reasoning | Series | Medium]
+Find the missing term: B, E, I, N, T, ?
+  A) Y
+  B) Z
+  C) A
+  D) C
+
+Q19. [General Intelligence & Reasoning | Inequality | Easy]
+If P > Q = R >= S, which is definitely true?
+  A) P < S
+  B) P > S
+  C) Q < S
+  D) R > P
+
+Q20. [General Intelligence & Reasoning | Alphabet Test | Easy]
+How many letters are between the 5th letter from the left and the 8th letter from the right?
+  A) 12
+  B) 13
+  C) 14
+  D) 15
+
+Q21. [General Intelligence & Reasoning | Series | Medium]
+Find the missing term: B, E, I, N, T, ?
+  A) Y
+  B) Z
+  C) A
+  D) C
+
+Q22. [General Intelligence & Reasoning | Analogy | Easy]
+Book : Read :: Food : ?
+  A) Cook
+  B) Eat
+  C) Serve
+  D) Buy
+
+Q23. [General Intelligence & Reasoning | Seating Arrangement | Hard]
+Five people P, Q, R, S and T sit in a row. P is left of Q, R is right of Q, and S is between P and Q. Who is in the middle?
+  A) P
+  B) Q
+  C) R
+  D) S
+
+Q24. [General Intelligence & Reasoning | Order and Ranking | Easy]
+In a class of 40, Meena is 12th from the top. Her rank from the bottom is:
+  A) 27th
+  B) 28th
+  C) 29th
+  D) 30th
+
+Q25. [General Intelligence & Reasoning | Order and Ranking | Easy]
+In a class of 40, Meena is 12th from the top. Her rank from the bottom is:
+  A) 27th
+  B) 28th
+  C) 29th
+  D) 30th
+
+Q26. [General Awareness | Current Affairs Method | Medium]
+For a current-affairs question, the most reliable preparation source is:
+  A) unverified social post
+  B) official release and reputable news
+  C) random guess
+  D) old memory only
+
+Q27. [General Awareness | History | Easy]
+The Quit India Movement was launched in:
+  A) 1930
+  B) 1942
+  C) 1947
+  D) 1950
+
+Q28. [General Awareness | Economy | Medium]
+Repo rate is the rate at which:
+  A) banks lend to customers
+  B) RBI lends to banks
+  C) banks lend to RBI
+  D) government lends to RBI
+
+Q29. [General Awareness | Indian Polity | Easy]
+Which Article of the Constitution deals with equality before law?
+  A) Article 12
+  B) Article 14
+  C) Article 19
+  D) Article 21
+
+Q30. [General Awareness | Economy | Medium]
+Repo rate is the rate at which:
+  A) banks lend to customers
+  B) RBI lends to banks
+  C) banks lend to RBI
+  D) government lends to RBI
+
+Q31. [General Awareness | Indian Polity | Easy]
+Which Article of the Constitution deals with equality before law?
+  A) Article 12
+  B) Article 14
+  C) Article 19
+  D) Article 21
+
+Q32. [General Awareness | General Science | Easy]
+The SI unit of electric current is:
+  A) volt
+  B) watt
+  C) ampere
+  D) ohm
+
+Q33. [General Awareness | Banking Awareness | Medium]
+KYC in banking primarily means:
+  A) Keep Your Cash
+  B) Know Your Customer
+  C) Key Yield Calculation
+  D) Know Your Credit
+
+Q34. [General Awareness | General Science | Easy]
+The SI unit of electric current is:
+  A) volt
+  B) watt
+  C) ampere
+  D) ohm
+
+Q35. [General Awareness | Computer Awareness | Easy]
+Which memory is non-volatile?
+  A) RAM
+  B) Cache
+  C) ROM
+  D) Register
+
+Q36. [General Awareness | Static GK | Easy]
+The headquarters of the Reserve Bank of India is in:
+  A) New Delhi
+  B) Mumbai
+  C) Kolkata
+  D) Chennai
+
+Q37. [General Awareness | Computer Awareness | Easy]
+Which memory is non-volatile?
+  A) RAM
+  B) Cache
+  C) ROM
+  D) Register
+
+Q38. [General Awareness | Financial Awareness | Medium]
+NPA in banking refers to:
+  A) Net Profit Account
+  B) Non-Performing Asset
+  C) New Payment Application
+  D) National Pension Account
+
+Q39. [General Awareness | Banking Awareness | Medium]
+KYC in banking primarily means:
+  A) Keep Your Cash
+  B) Know Your Customer
+  C) Key Yield Calculation
+  D) Know Your Credit
+
+Q40. [General Awareness | Financial Awareness | Medium]
+NPA in banking refers to:
+  A) Net Profit Account
+  B) Non-Performing Asset
+  C) New Payment Application
+  D) National Pension Account
+
+Q41. [General Awareness | Geography | Easy]
+The Tropic of Cancer passes through how many Indian states?
+  A) 6
+  B) 7
+  C) 8
+  D) 9
+
+Q42. [General Awareness | Static GK | Easy]
+The headquarters of the Reserve Bank of India is in:
+  A) New Delhi
+  B) Mumbai
+  C) Kolkata
+  D) Chennai
+
+Q43. [General Awareness | Static GK | Easy]
+The headquarters of the Reserve Bank of India is in:
+  A) New Delhi
+  B) Mumbai
+  C) Kolkata
+  D) Chennai
+
+Q44. [General Awareness | Current Affairs Method | Medium]
+For a current-affairs question, the most reliable preparation source is:
+  A) unverified social post
+  B) official release and reputable news
+  C) random guess
+  D) old memory only
+
+Q45. [General Awareness | Current Affairs Method | Medium]
+For a current-affairs question, the most reliable preparation source is:
+  A) unverified social post
+  B) official release and reputable news
+  C) random guess
+  D) old memory only
+
+Q46. [General Awareness | Computer Awareness | Easy]
+Which memory is non-volatile?
+  A) RAM
+  B) Cache
+  C) ROM
+  D) Register
+
+Q47. [General Awareness | Banking Awareness | Medium]
+KYC in banking primarily means:
+  A) Keep Your Cash
+  B) Know Your Customer
+  C) Key Yield Calculation
+  D) Know Your Credit
+
+Q48. [General Awareness | Geography | Easy]
+The Tropic of Cancer passes through how many Indian states?
+  A) 6
+  B) 7
+  C) 8
+  D) 9
+
+Q49. [General Awareness | History | Easy]
+The Quit India Movement was launched in:
+  A) 1930
+  B) 1942
+  C) 1947
+  D) 1950
+
+Q50. [General Awareness | Financial Awareness | Medium]
+NPA in banking refers to:
+  A) Net Profit Account
+  B) Non-Performing Asset
+  C) New Payment Application
+  D) National Pension Account
+
+Q51. [Quantitative Aptitude | Ratio | Easy]
+If A:B = 3:5 and B:C = 10:7, then A:C is:
+  A) 3:7
+  B) 6:7
+  C) 7:6
+  D) 5:7
+
+Q52. [Quantitative Aptitude | Speed, Distance and Time | Medium]
+A train covers 360 km in 4.5 hours. Its speed is:
+  A) 72 km/h
+  B) 80 km/h
+  C) 90 km/h
+  D) 96 km/h
+
+Q53. [Quantitative Aptitude | Geometry | Medium]
+The angles of a triangle are in the ratio 2:3:4. The largest angle is:
+  A) 60 degrees
+  B) 70 degrees
+  C) 80 degrees
+  D) 90 degrees
+
+Q54. [Quantitative Aptitude | Quadratic Equation | Hard]
+The positive root of x^2 - 9x + 20 = 0 is:
+  A) 4
+  B) 5
+  C) 6
+  D) 8
+
+Q55. [Quantitative Aptitude | Percentage | Medium]
+A number increased by 20% becomes 360. The original number is:
+  A) 280
+  B) 300
+  C) 320
+  D) 340
+
+Q56. [Quantitative Aptitude | Ratio | Easy]
+If A:B = 3:5 and B:C = 10:7, then A:C is:
+  A) 3:7
+  B) 6:7
+  C) 7:6
+  D) 5:7
+
+Q57. [Quantitative Aptitude | Percentage | Medium]
+A number increased by 20% becomes 360. The original number is:
+  A) 280
+  B) 300
+  C) 320
+  D) 340
+
+Q58. [Quantitative Aptitude | Number Series | Medium]
+Find the next number: 3, 7, 15, 31, 63, ?
+  A) 95
+  B) 111
+  C) 127
+  D) 129
+
+Q59. [Quantitative Aptitude | Speed, Distance and Time | Medium]
+A train covers 360 km in 4.5 hours. Its speed is:
+  A) 72 km/h
+  B) 80 km/h
+  C) 90 km/h
+  D) 96 km/h
+
+Q60. [Quantitative Aptitude | Profit and Loss | Medium]
+An article bought for Rs. 800 is sold for Rs. 920. Profit percentage is:
+  A) 12%
+  B) 15%
+  C) 18%
+  D) 20%
+
+Q61. [Quantitative Aptitude | Geometry | Medium]
+The angles of a triangle are in the ratio 2:3:4. The largest angle is:
+  A) 60 degrees
+  B) 70 degrees
+  C) 80 degrees
+  D) 90 degrees
+
+Q62. [Quantitative Aptitude | Average | Easy]
+The average of 8, 12, 15, 21 and 24 is:
+  A) 14
+  B) 16
+  C) 18
+  D) 20
+
+Q63. [Quantitative Aptitude | Average | Easy]
+The average of 8, 12, 15, 21 and 24 is:
+  A) 14
+  B) 16
+  C) 18
+  D) 20
+
+Q64. [Quantitative Aptitude | Quadratic Equation | Hard]
+The positive root of x^2 - 9x + 20 = 0 is:
+  A) 4
+  B) 5
+  C) 6
+  D) 8
+
+Q65. [Quantitative Aptitude | Simple Interest | Medium]
+Simple interest on Rs. 5,000 at 8% per annum for 2 years is:
+  A) Rs. 400
+  B) Rs. 600
+  C) Rs. 800
+  D) Rs. 900
+
+Q66. [Quantitative Aptitude | Time and Work | Medium]
+A can finish a task in 12 days and B in 18 days. Together they take:
+  A) 6 days
+  B) 7 1/5 days
+  C) 8 days
+  D) 9 days
+
+Q67. [Quantitative Aptitude | Data Interpretation | Medium]
+A shop sells 120, 150 and 180 units on three days. The average sale is:
+  A) 140
+  B) 145
+  C) 150
+  D) 160
+
+Q68. [Quantitative Aptitude | Number Series | Medium]
+Find the next number: 3, 7, 15, 31, 63, ?
+  A) 95
+  B) 111
+  C) 127
+  D) 129
+
+Q69. [Quantitative Aptitude | Simple Interest | Medium]
+Simple interest on Rs. 5,000 at 8% per annum for 2 years is:
+  A) Rs. 400
+  B) Rs. 600
+  C) Rs. 800
+  D) Rs. 900
+
+Q70. [Quantitative Aptitude | Ratio | Easy]
+If A:B = 3:5 and B:C = 10:7, then A:C is:
+  A) 3:7
+  B) 6:7
+  C) 7:6
+  D) 5:7
+
+Q71. [Quantitative Aptitude | Time and Work | Medium]
+A can finish a task in 12 days and B in 18 days. Together they take:
+  A) 6 days
+  B) 7 1/5 days
+  C) 8 days
+  D) 9 days
+
+Q72. [Quantitative Aptitude | Simplification | Easy]
+25% of 240 + 3/5 of 100 = ?
+  A) 100
+  B) 120
+  C) 140
+  D) 160
+
+Q73. [Quantitative Aptitude | Profit and Loss | Medium]
+An article bought for Rs. 800 is sold for Rs. 920. Profit percentage is:
+  A) 12%
+  B) 15%
+  C) 18%
+  D) 20%
+
+Q74. [Quantitative Aptitude | Data Interpretation | Medium]
+A shop sells 120, 150 and 180 units on three days. The average sale is:
+  A) 140
+  B) 145
+  C) 150
+  D) 160
+
+Q75. [Quantitative Aptitude | Simplification | Easy]
+25% of 240 + 3/5 of 100 = ?
+  A) 100
+  B) 120
+  C) 140
+  D) 160
+
+Q76. [English Comprehension | Vocabulary | Easy]
+Choose the antonym of 'ancient'.
+  A) old
+  B) historic
+  C) modern
+  D) early
+
+Q77. [English Comprehension | Vocabulary | Easy]
+Choose the synonym of 'abundant'.
+  A) scarce
+  B) plentiful
+  C) fragile
+  D) brief
+
+Q78. [English Comprehension | Vocabulary | Easy]
+Choose the synonym of 'abundant'.
+  A) scarce
+  B) plentiful
+  C) fragile
+  D) brief
+
+Q79. [English Comprehension | Error Spotting | Easy]
+Choose the incorrect part: 'Neither of the answers are correct.'
+  A) Neither
+  B) of the answers
+  C) are
+  D) correct
+
+Q80. [English Comprehension | Tenses | Easy]
+By this time tomorrow, she ___ the report.
+  A) completes
+  B) completed
+  C) will have completed
+  D) has completed
+
+Q81. [English Comprehension | Direct and Indirect Speech | Medium]
+Change to indirect speech: He said, 'I am busy.'
+  A) He said that I am busy.
+  B) He said that he was busy.
+  C) He says he was busy.
+  D) He said he is busy.
+
+Q82. [English Comprehension | Cloze and Usage | Medium]
+The evidence was too weak ___ support the claim.
+  A) for
+  B) to
+  C) with
+  D) by
+
+Q83. [English Comprehension | Reading Comprehension | Medium]
+A passage states that regular revision improves retention. The central idea is:
+  A) Revision is unnecessary.
+  B) Revision supports memory.
+  C) Only long study sessions work.
+  D) Memory cannot improve.
+
+Q84. [English Comprehension | Reading Comprehension | Medium]
+A passage states that regular revision improves retention. The central idea is:
+  A) Revision is unnecessary.
+  B) Revision supports memory.
+  C) Only long study sessions work.
+  D) Memory cannot improve.
+
+Q85. [English Comprehension | Vocabulary | Easy]
+Choose the antonym of 'ancient'.
+  A) old
+  B) historic
+  C) modern
+  D) early
+
+Q86. [English Comprehension | Active and Passive Voice | Medium]
+Change to passive: 'The committee approved the proposal.'
+  A) The proposal was approved by the committee.
+  B) The proposal is approved by the committee.
+  C) The committee was approved by the proposal.
+  D) The proposal approved the committee.
+
+Q87. [English Comprehension | Cloze and Usage | Medium]
+The evidence was too weak ___ support the claim.
+  A) for
+  B) to
+  C) with
+  D) by
+
+Q88. [English Comprehension | Sentence Improvement | Medium]
+Improve: 'She is senior than me.'
+  A) senior to me
+  B) senior from me
+  C) more senior than me
+  D) no improvement
+
+Q89. [English Comprehension | Vocabulary | Easy]
+Choose the synonym of 'abundant'.
+  A) scarce
+  B) plentiful
+  C) fragile
+  D) brief
+
+Q90. [English Comprehension | Reading Comprehension | Medium]
+A passage states that regular revision improves retention. The central idea is:
+  A) Revision is unnecessary.
+  B) Revision supports memory.
+  C) Only long study sessions work.
+  D) Memory cannot improve.
+
+Q91. [English Comprehension | Sentence Improvement | Medium]
+Improve: 'She is senior than me.'
+  A) senior to me
+  B) senior from me
+  C) more senior than me
+  D) no improvement
+
+Q92. [English Comprehension | Fillers | Easy]
+The manager insisted ___ punctuality.
+  A) in
+  B) on
+  C) at
+  D) for
+
+Q93. [English Comprehension | Active and Passive Voice | Medium]
+Change to passive: 'The committee approved the proposal.'
+  A) The proposal was approved by the committee.
+  B) The proposal is approved by the committee.
+  C) The committee was approved by the proposal.
+  D) The proposal approved the committee.
+
+Q94. [English Comprehension | Cloze and Usage | Medium]
+The evidence was too weak ___ support the claim.
+  A) for
+  B) to
+  C) with
+  D) by
+
+Q95. [English Comprehension | Direct and Indirect Speech | Medium]
+Change to indirect speech: He said, 'I am busy.'
+  A) He said that I am busy.
+  B) He said that he was busy.
+  C) He says he was busy.
+  D) He said he is busy.
+
+Q96. [English Comprehension | Tenses | Easy]
+By this time tomorrow, she ___ the report.
+  A) completes
+  B) completed
+  C) will have completed
+  D) has completed
+
+Q97. [English Comprehension | Error Spotting | Easy]
+Choose the incorrect part: 'Neither of the answers are correct.'
+  A) Neither
+  B) of the answers
+  C) are
+  D) correct
+
+Q98. [English Comprehension | Vocabulary | Easy]
+Choose the antonym of 'ancient'.
+  A) old
+  B) historic
+  C) modern
+  D) early
+
+Q99. [English Comprehension | Fillers | Easy]
+The manager insisted ___ punctuality.
+  A) in
+  B) on
+  C) at
+  D) for
+
+Q100. [English Comprehension | Sentence Improvement | Medium]
+Improve: 'She is senior than me.'
+  A) senior to me
+  B) senior from me
+  C) more senior than me
+  D) no improvement
+
+ANSWER KEY
+------------------------------------------------------------------------------------
+Q1: 12-15-1-14
+Q2: P > S
+Q3: 29th
+Q4: 13
+Q5: S
+Q6: Sister
+Q7: 13
+Q8: Only II follows
+Q9: Eat
+Q10: 3 km east of start
+Q11: Eat
+Q12: Sister
+Q13: 12-15-1-14
+Q14: 3 km east of start
+Q15: Only II follows
+Q16: S
+Q17: A
+Q18: A
+Q19: P > S
+Q20: 13
+Q21: A
+Q22: Eat
+Q23: S
+Q24: 29th
+Q25: 29th
+Q26: official release and reputable news
+Q27: 1942
+Q28: RBI lends to banks
+Q29: Article 14
+Q30: RBI lends to banks
+Q31: Article 14
+Q32: ampere
+Q33: Know Your Customer
+Q34: ampere
+Q35: ROM
+Q36: Mumbai
+Q37: ROM
+Q38: Non-Performing Asset
+Q39: Know Your Customer
+Q40: Non-Performing Asset
+Q41: 8
+Q42: Mumbai
+Q43: Mumbai
+Q44: official release and reputable news
+Q45: official release and reputable news
+Q46: ROM
+Q47: Know Your Customer
+Q48: 8
+Q49: 1942
+Q50: Non-Performing Asset
+Q51: 6:7
+Q52: 80 km/h
+Q53: 80 degrees
+Q54: 5
+Q55: 300
+Q56: 6:7
+Q57: 300
+Q58: 127
+Q59: 80 km/h
+Q60: 15%
+Q61: 80 degrees
+Q62: 16
+Q63: 16
+Q64: 5
+Q65: Rs. 800
+Q66: 7 1/5 days
+Q67: 150
+Q68: 127
+Q69: Rs. 800
+Q70: 6:7
+Q71: 7 1/5 days
+Q72: 120
+Q73: 15%
+Q74: 150
+Q75: 120
+Q76: modern
+Q77: plentiful
+Q78: plentiful
+Q79: are
+Q80: will have completed
+Q81: He said that he was busy.
+Q82: to
+Q83: Revision supports memory.
+Q84: Revision supports memory.
+Q85: modern
+Q86: The proposal was approved by the committee.
+Q87: to
+Q88: senior to me
+Q89: plentiful
+Q90: Revision supports memory.
+Q91: senior to me
+Q92: on
+Q93: The proposal was approved by the committee.
+Q94: to
+Q95: He said that he was busy.
+Q96: will have completed
+Q97: are
+Q98: modern
+Q99: on
+Q100: senior to me
+
+SOLUTIONS
+------------------------------------------------------------------------------------
+Q1: 12-15-1-14 - Use the alphabet position of each letter.
+Q2: P > S - P is greater than Q and Q is at least S, so P is greater than S.
+Q3: 29th - Bottom rank = 40 - 12 + 1 = 29.
+Q4: 13 - The 8th from right is S; between E and S are 13 letters.
+Q5: S - The order is P-S-Q-R with T at an end; S occupies the central position among the constrained four.
+Q6: Sister - The only son of Ravi's grandfather is Ravi's father; his daughter is Ravi's sister.
+Q7: 13 - The 8th from right is S; between E and S are 13 letters.
+Q8: Only II follows - The first statement directly supports II; overlap of pens and papers is not certain.
+Q9: Eat - A book is read; food is eaten.
+Q10: 3 km east of start - North and south movements cancel.
+Q11: Eat - A book is read; food is eaten.
+Q12: Sister - The only son of Ravi's grandfather is Ravi's father; his daughter is Ravi's sister.
+Q13: 12-15-1-14 - Use the alphabet position of each letter.
+Q14: 3 km east of start - North and south movements cancel.
+Q15: Only II follows - The first statement directly supports II; overlap of pens and papers is not certain.
+Q16: S - The order is P-S-Q-R with T at an end; S occupies the central position among the constrained four.
+Q17: A - Letter jumps are +3, +4, +5, +6, then +7 with cyclic alphabet, giving A.
+Q18: A - Letter jumps are +3, +4, +5, +6, then +7 with cyclic alphabet, giving A.
+Q19: P > S - P is greater than Q and Q is at least S, so P is greater than S.
+Q20: 13 - The 8th from right is S; between E and S are 13 letters.
+Q21: A - Letter jumps are +3, +4, +5, +6, then +7 with cyclic alphabet, giving A.
+Q22: Eat - A book is read; food is eaten.
+Q23: S - The order is P-S-Q-R with T at an end; S occupies the central position among the constrained four.
+Q24: 29th - Bottom rank = 40 - 12 + 1 = 29.
+Q25: 29th - Bottom rank = 40 - 12 + 1 = 29.
+Q26: official release and reputable news - Current facts should be checked against authoritative sources.
+Q27: 1942 - The movement began in August 1942.
+Q28: RBI lends to banks - Repo is the policy rate for RBI lending to commercial banks.
+Q29: Article 14 - Article 14 guarantees equality before law and equal protection of laws.
+Q30: RBI lends to banks - Repo is the policy rate for RBI lending to commercial banks.
+Q31: Article 14 - Article 14 guarantees equality before law and equal protection of laws.
+Q32: ampere - Ampere is the SI unit of current.
+Q33: Know Your Customer - KYC verifies the identity and address of a customer.
+Q34: ampere - Ampere is the SI unit of current.
+Q35: ROM - ROM retains data when power is removed.
+Q36: Mumbai - RBI headquarters is in Mumbai.
+Q37: ROM - ROM retains data when power is removed.
+Q38: Non-Performing Asset - An NPA is a loan asset that stops generating income under regulatory rules.
+Q39: Know Your Customer - KYC verifies the identity and address of a customer.
+Q40: Non-Performing Asset - An NPA is a loan asset that stops generating income under regulatory rules.
+Q41: 8 - It passes through eight Indian states.
+Q42: Mumbai - RBI headquarters is in Mumbai.
+Q43: Mumbai - RBI headquarters is in Mumbai.
+Q44: official release and reputable news - Current facts should be checked against authoritative sources.
+Q45: official release and reputable news - Current facts should be checked against authoritative sources.
+Q46: ROM - ROM retains data when power is removed.
+Q47: Know Your Customer - KYC verifies the identity and address of a customer.
+Q48: 8 - It passes through eight Indian states.
+Q49: 1942 - The movement began in August 1942.
+Q50: Non-Performing Asset - An NPA is a loan asset that stops generating income under regulatory rules.
+Q51: 6:7 - Make B common: 3:5 = 6:10, hence A:C = 6:7.
+Q52: 80 km/h - Speed = 360/4.5 = 80 km/h.
+Q53: 80 degrees - Nine parts equal 180 degrees, so one part is 20 and the largest is 80.
+Q54: 5 - Factors are (x-4)(x-5); positive roots are 4 and 5, and the requested larger positive root is 5.
+Q55: 300 - Original = 360/1.20 = 300.
+Q56: 6:7 - Make B common: 3:5 = 6:10, hence A:C = 6:7.
+Q57: 300 - Original = 360/1.20 = 300.
+Q58: 127 - Each term is previous term x 2 + 1.
+Q59: 80 km/h - Speed = 360/4.5 = 80 km/h.
+Q60: 15% - Profit is 120; 120/800 x 100 = 15%.
+Q61: 80 degrees - Nine parts equal 180 degrees, so one part is 20 and the largest is 80.
+Q62: 16 - Sum is 80; 80/5 = 16.
+Q63: 16 - Sum is 80; 80/5 = 16.
+Q64: 5 - Factors are (x-4)(x-5); positive roots are 4 and 5, and the requested larger positive root is 5.
+Q65: Rs. 800 - SI = 5000 x 8 x 2 / 100 = 800.
+Q66: 7 1/5 days - Combined rate is 1/12 + 1/18 = 5/36, so time is 36/5 days.
+Q67: 150 - Total 450 divided by 3 equals 150.
+Q68: 127 - Each term is previous term x 2 + 1.
+Q69: Rs. 800 - SI = 5000 x 8 x 2 / 100 = 800.
+Q70: 6:7 - Make B common: 3:5 = 6:10, hence A:C = 6:7.
+Q71: 7 1/5 days - Combined rate is 1/12 + 1/18 = 5/36, so time is 36/5 days.
+Q72: 120 - 25% of 240 is 60 and 3/5 of 100 is 60; total 120.
+Q73: 15% - Profit is 120; 120/800 x 100 = 15%.
+Q74: 150 - Total 450 divided by 3 equals 150.
+Q75: 120 - 25% of 240 is 60 and 3/5 of 100 is 60; total 120.
+Q76: modern - Modern is the opposite of ancient.
+Q77: plentiful - Abundant means available in large quantity.
+Q78: plentiful - Abundant means available in large quantity.
+Q79: are - Neither takes a singular verb: 'is'.
+Q80: will have completed - Future perfect describes an action completed before a future time.
+Q81: He said that he was busy. - Backshift am to was and change the pronoun I to he.
+Q82: to - The construction is 'too + adjective + to + verb'.
+Q83: Revision supports memory. - The statement directly supports the benefit of revision.
+Q84: Revision supports memory. - The statement directly supports the benefit of revision.
+Q85: modern - Modern is the opposite of ancient.
+Q86: The proposal was approved by the committee. - Simple past active changes to was/were + past participle.
+Q87: to - The construction is 'too + adjective + to + verb'.
+Q88: senior to me - Senior is followed by 'to', not 'than'.
+Q89: plentiful - Abundant means available in large quantity.
+Q90: Revision supports memory. - The statement directly supports the benefit of revision.
+Q91: senior to me - Senior is followed by 'to', not 'than'.
+Q92: on - The correct collocation is 'insisted on'.
+Q93: The proposal was approved by the committee. - Simple past active changes to was/were + past participle.
+Q94: to - The construction is 'too + adjective + to + verb'.
+Q95: He said that he was busy. - Backshift am to was and change the pronoun I to he.
+Q96: will have completed - Future perfect describes an action completed before a future time.
+Q97: are - Neither takes a singular verb: 'is'.
+Q98: modern - Modern is the opposite of ancient.
+Q99: on - The correct collocation is 'insisted on'.
+Q100: senior to me - Senior is followed by 'to', not 'than'.

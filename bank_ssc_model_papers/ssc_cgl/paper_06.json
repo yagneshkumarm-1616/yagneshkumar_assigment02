@@ -1,0 +1,1637 @@
+{
+  "exam": "SSC CGL",
+  "exam_key": "ssc_cgl",
+  "stage": "Tier-I",
+  "paper_number": 6,
+  "pattern": {
+    "sections": [
+      {
+        "name": "General Intelligence & Reasoning",
+        "questions": 25,
+        "marks": 50
+      },
+      {
+        "name": "General Awareness",
+        "questions": 25,
+        "marks": 50
+      },
+      {
+        "name": "Quantitative Aptitude",
+        "questions": 25,
+        "marks": 50
+      },
+      {
+        "name": "English Comprehension",
+        "questions": 25,
+        "marks": 50
+      }
+    ],
+    "total_questions": 100,
+    "total_marks": 200,
+    "minutes": 60,
+    "negative_mark": 0.5
+  },
+  "questions": [
+    {
+      "number": 1,
+      "section": "General Intelligence & Reasoning",
+      "topic": "Coding-Decoding",
+      "difficulty": "Medium",
+      "prompt": "If BANK is coded as 2-1-14-11, how is LOAN coded using alphabet positions?",
+      "options": [
+        "12-15-1-14",
+        "11-15-1-13",
+        "12-14-1-15",
+        "13-15-2-14"
+      ],
+      "answer": "12-15-1-14",
+      "explanation": "Use the alphabet position of each letter.",
+      "evidence": "Syllabus and recurring previous-paper topic"
+    },
+    {
+      "number": 2,
+      "section": "General Intelligence & Reasoning",
+      "topic": "Coding-Decoding",
+      "difficulty": "Medium",
+      "prompt": "If BANK is coded as 2-1-14-11, how is LOAN coded using alphabet positions?",
+      "options": [
+        "12-15-1-14",
+        "11-15-1-13",
+        "12-14-1-15",
+        "13-15-2-14"
+      ],
+      "answer": "12-15-1-14",
+      "explanation": "Use the alphabet position of each letter.",
+      "evidence": "Syllabus and recurring previous-paper topic"
+    },
+    {
+      "number": 3,
+      "section": "General Intelligence & Reasoning",
+      "topic": "Series",
+      "difficulty": "Medium",
+      "prompt": "Find the missing term: B, E, I, N, T, ?",
+      "options": [
+        "Y",
+        "Z",
+        "A",
+        "C"
+      ],
+      "answer": "A",
+      "explanation": "Letter jumps are +3, +4, +5, +6, then +7 with cyclic alphabet, giving A.",
+      "evidence": "Syllabus and recurring previous-paper topic"
+    },
+    {
+      "number": 4,
+      "section": "General Intelligence & Reasoning",
+      "topic": "Inequality",
+      "difficulty": "Easy",
+      "prompt": "If P > Q = R >= S, which is definitely true?",
+      "options": [
+        "P < S",
+        "P > S",
+        "Q < S",
+        "R > P"
+      ],
+      "answer": "P > S",
+      "explanation": "P is greater than Q and Q is at least S, so P is greater than S.",
+      "evidence": "Syllabus and recurring previous-paper topic"
+    },
+    {
+      "number": 5,
+      "section": "General Intelligence & Reasoning",
+      "topic": "Order and Ranking",
+      "difficulty": "Easy",
+      "prompt": "In a class of 40, Meena is 12th from the top. Her rank from the bottom is:",
+      "options": [
+        "27th",
+        "28th",
+        "29th",
+        "30th"
+      ],
+      "answer": "29th",
+      "explanation": "Bottom rank = 40 - 12 + 1 = 29.",
+      "evidence": "Syllabus and recurring previous-paper topic"
+    },
+    {
+      "number": 6,
+      "section": "General Intelligence & Reasoning",
+      "topic": "Blood Relation",
+      "difficulty": "Easy",
+      "prompt": "Ravi says, 'She is the daughter of the only son of my grandfather.' The woman is Ravi's:",
+      "options": [
+        "Sister",
+        "Mother",
+        "Daughter",
+        "Aunt"
+      ],
+      "answer": "Sister",
+      "explanation": "The only son of Ravi's grandfather is Ravi's father; his daughter is Ravi's sister.",
+      "evidence": "Syllabus and recurring previous-paper topic"
+    },
+    {
+      "number": 7,
+      "section": "General Intelligence & Reasoning",
+      "topic": "Order and Ranking",
+      "difficulty": "Easy",
+      "prompt": "In a class of 40, Meena is 12th from the top. Her rank from the bottom is:",
+      "options": [
+        "27th",
+        "28th",
+        "29th",
+        "30th"
+      ],
+      "answer": "29th",
+      "explanation": "Bottom rank = 40 - 12 + 1 = 29.",
+      "evidence": "Syllabus and recurring previous-paper topic"
+    },
+    {
+      "number": 8,
+      "section": "General Intelligence & Reasoning",
+      "topic": "Analogy",
+      "difficulty": "Easy",
+      "prompt": "Book : Read :: Food : ?",
+      "options": [
+        "Cook",
+        "Eat",
+        "Serve",
+        "Buy"
+      ],
+      "answer": "Eat",
+      "explanation": "A book is read; food is eaten.",
+      "evidence": "Syllabus and recurring previous-paper topic"
+    },
+    {
+      "number": 9,
+      "section": "General Intelligence & Reasoning",
+      "topic": "Syllogism",
+      "difficulty": "Medium",
+      "prompt": "Statements: All pens are books. Some books are papers. Conclusions: I. Some pens are papers. II. All pens are books.",
+      "options": [
+        "Only I follows",
+        "Only II follows",
+        "Both follow",
+        "Neither follows"
+      ],
+      "answer": "Only II follows",
+      "explanation": "The first statement directly supports II; overlap of pens and papers is not certain.",
+      "evidence": "Syllabus and recurring previous-paper topic"
+    },
+    {
+      "number": 10,
+      "section": "General Intelligence & Reasoning",
+      "topic": "Alphabet Test",
+      "difficulty": "Easy",
+      "prompt": "How many letters are between the 5th letter from the left and the 8th letter from the right?",
+      "options": [
+        "12",
+        "13",
+        "14",
+        "15"
+      ],
+      "answer": "13",
+      "explanation": "The 8th from right is S; between E and S are 13 letters.",
+      "evidence": "Syllabus and recurring previous-paper topic"
+    },
+    {
+      "number": 11,
+      "section": "General Intelligence & Reasoning",
+      "topic": "Alphabet Test",
+      "difficulty": "Easy",
+      "prompt": "How many letters are between the 5th letter from the left and the 8th letter from the right?",
+      "options": [
+        "12",
+        "13",
+        "14",
+        "15"
+      ],
+      "answer": "13",
+      "explanation": "The 8th from right is S; between E and S are 13 letters.",
+      "evidence": "Syllabus and recurring previous-paper topic"
+    },
+    {
+      "number": 12,
+      "section": "General Intelligence & Reasoning",
+      "topic": "Inequality",
+      "difficulty": "Easy",
+      "prompt": "If P > Q = R >= S, which is definitely true?",
+      "options": [
+        "P < S",
+        "P > S",
+        "Q < S",
+        "R > P"
+      ],
+      "answer": "P > S",
+      "explanation": "P is greater than Q and Q is at least S, so P is greater than S.",
+      "evidence": "Syllabus and recurring previous-paper topic"
+    },
+    {
+      "number": 13,
+      "section": "General Intelligence & Reasoning",
+      "topic": "Analogy",
+      "difficulty": "Easy",
+      "prompt": "Book : Read :: Food : ?",
+      "options": [
+        "Cook",
+        "Eat",
+        "Serve",
+        "Buy"
+      ],
+      "answer": "Eat",
+      "explanation": "A book is read; food is eaten.",
+      "evidence": "Syllabus and recurring previous-paper topic"
+    },
+    {
+      "number": 14,
+      "section": "General Intelligence & Reasoning",
+      "topic": "Syllogism",
+      "difficulty": "Medium",
+      "prompt": "Statements: All pens are books. Some books are papers. Conclusions: I. Some pens are papers. II. All pens are books.",
+      "options": [
+        "Only I follows",
+        "Only II follows",
+        "Both follow",
+        "Neither follows"
+      ],
+      "answer": "Only II follows",
+      "explanation": "The first statement directly supports II; overlap of pens and papers is not certain.",
+      "evidence": "Syllabus and recurring previous-paper topic"
+    },
+    {
+      "number": 15,
+      "section": "General Intelligence & Reasoning",
+      "topic": "Direction Sense",
+      "difficulty": "Easy",
+      "prompt": "A person walks 5 km north, then 3 km east, then 5 km south. He is now:",
+      "options": [
+        "3 km east of start",
+        "3 km west of start",
+        "5 km south",
+        "8 km east"
+      ],
+      "answer": "3 km east of start",
+      "explanation": "North and south movements cancel.",
+      "evidence": "Syllabus and recurring previous-paper topic"
+    },
+    {
+      "number": 16,
+      "section": "General Intelligence & Reasoning",
+      "topic": "Inequality",
+      "difficulty": "Easy",
+      "prompt": "If P > Q = R >= S, which is definitely true?",
+      "options": [
+        "P < S",
+        "P > S",
+        "Q < S",
+        "R > P"
+      ],
+      "answer": "P > S",
+      "explanation": "P is greater than Q and Q is at least S, so P is greater than S.",
+      "evidence": "Syllabus and recurring previous-paper topic"
+    },
+    {
+      "number": 17,
+      "section": "General Intelligence & Reasoning",
+      "topic": "Analogy",
+      "difficulty": "Easy",
+      "prompt": "Book : Read :: Food : ?",
+      "options": [
+        "Cook",
+        "Eat",
+        "Serve",
+        "Buy"
+      ],
+      "answer": "Eat",
+      "explanation": "A book is read; food is eaten.",
+      "evidence": "Syllabus and recurring previous-paper topic"
+    },
+    {
+      "number": 18,
+      "section": "General Intelligence & Reasoning",
+      "topic": "Seating Arrangement",
+      "difficulty": "Hard",
+      "prompt": "Five people P, Q, R, S and T sit in a row. P is left of Q, R is right of Q, and S is between P and Q. Who is in the middle?",
+      "options": [
+        "P",
+        "Q",
+        "R",
+        "S"
+      ],
+      "answer": "S",
+      "explanation": "The order is P-S-Q-R with T at an end; S occupies the central position among the constrained four.",
+      "evidence": "Syllabus and recurring previous-paper topic"
+    },
+    {
+      "number": 19,
+      "section": "General Intelligence & Reasoning",
+      "topic": "Blood Relation",
+      "difficulty": "Easy",
+      "prompt": "Ravi says, 'She is the daughter of the only son of my grandfather.' The woman is Ravi's:",
+      "options": [
+        "Sister",
+        "Mother",
+        "Daughter",
+        "Aunt"
+      ],
+      "answer": "Sister",
+      "explanation": "The only son of Ravi's grandfather is Ravi's father; his daughter is Ravi's sister.",
+      "evidence": "Syllabus and recurring previous-paper topic"
+    },
+    {
+      "number": 20,
+      "section": "General Intelligence & Reasoning",
+      "topic": "Syllogism",
+      "difficulty": "Medium",
+      "prompt": "Statements: All pens are books. Some books are papers. Conclusions: I. Some pens are papers. II. All pens are books.",
+      "options": [
+        "Only I follows",
+        "Only II follows",
+        "Both follow",
+        "Neither follows"
+      ],
+      "answer": "Only II follows",
+      "explanation": "The first statement directly supports II; overlap of pens and papers is not certain.",
+      "evidence": "Syllabus and recurring previous-paper topic"
+    },
+    {
+      "number": 21,
+      "section": "General Intelligence & Reasoning",
+      "topic": "Alphabet Test",
+      "difficulty": "Easy",
+      "prompt": "How many letters are between the 5th letter from the left and the 8th letter from the right?",
+      "options": [
+        "12",
+        "13",
+        "14",
+        "15"
+      ],
+      "answer": "13",
+      "explanation": "The 8th from right is S; between E and S are 13 letters.",
+      "evidence": "Syllabus and recurring previous-paper topic"
+    },
+    {
+      "number": 22,
+      "section": "General Intelligence & Reasoning",
+      "topic": "Seating Arrangement",
+      "difficulty": "Hard",
+      "prompt": "Five people P, Q, R, S and T sit in a row. P is left of Q, R is right of Q, and S is between P and Q. Who is in the middle?",
+      "options": [
+        "P",
+        "Q",
+        "R",
+        "S"
+      ],
+      "answer": "S",
+      "explanation": "The order is P-S-Q-R with T at an end; S occupies the central position among the constrained four.",
+      "evidence": "Syllabus and recurring previous-paper topic"
+    },
+    {
+      "number": 23,
+      "section": "General Intelligence & Reasoning",
+      "topic": "Series",
+      "difficulty": "Medium",
+      "prompt": "Find the missing term: B, E, I, N, T, ?",
+      "options": [
+        "Y",
+        "Z",
+        "A",
+        "C"
+      ],
+      "answer": "A",
+      "explanation": "Letter jumps are +3, +4, +5, +6, then +7 with cyclic alphabet, giving A.",
+      "evidence": "Syllabus and recurring previous-paper topic"
+    },
+    {
+      "number": 24,
+      "section": "General Intelligence & Reasoning",
+      "topic": "Direction Sense",
+      "difficulty": "Easy",
+      "prompt": "A person walks 5 km north, then 3 km east, then 5 km south. He is now:",
+      "options": [
+        "3 km east of start",
+        "3 km west of start",
+        "5 km south",
+        "8 km east"
+      ],
+      "answer": "3 km east of start",
+      "explanation": "North and south movements cancel.",
+      "evidence": "Syllabus and recurring previous-paper topic"
+    },
+    {
+      "number": 25,
+      "section": "General Intelligence & Reasoning",
+      "topic": "Coding-Decoding",
+      "difficulty": "Medium",
+      "prompt": "If BANK is coded as 2-1-14-11, how is LOAN coded using alphabet positions?",
+      "options": [
+        "12-15-1-14",
+        "11-15-1-13",
+        "12-14-1-15",
+        "13-15-2-14"
+      ],
+      "answer": "12-15-1-14",
+      "explanation": "Use the alphabet position of each letter.",
+      "evidence": "Syllabus and recurring previous-paper topic"
+    },
+    {
+      "number": 26,
+      "section": "General Awareness",
+      "topic": "Economy",
+      "difficulty": "Medium",
+      "prompt": "Repo rate is the rate at which:",
+      "options": [
+        "banks lend to customers",
+        "RBI lends to banks",
+        "banks lend to RBI",
+        "government lends to RBI"
+      ],
+      "answer": "RBI lends to banks",
+      "explanation": "Repo is the policy rate for RBI lending to commercial banks.",
+      "evidence": "Syllabus and recurring previous-paper topic"
+    },
+    {
+      "number": 27,
+      "section": "General Awareness",
+      "topic": "Current Affairs Method",
+      "difficulty": "Medium",
+      "prompt": "For a current-affairs question, the most reliable preparation source is:",
+      "options": [
+        "unverified social post",
+        "official release and reputable news",
+        "random guess",
+        "old memory only"
+      ],
+      "answer": "official release and reputable news",
+      "explanation": "Current facts should be checked against authoritative sources.",
+      "evidence": "Syllabus and recurring previous-paper topic"
+    },
+    {
+      "number": 28,
+      "section": "General Awareness",
+      "topic": "Geography",
+      "difficulty": "Easy",
+      "prompt": "The Tropic of Cancer passes through how many Indian states?",
+      "options": [
+        "6",
+        "7",
+        "8",
+        "9"
+      ],
+      "answer": "8",
+      "explanation": "It passes through eight Indian states.",
+      "evidence": "Syllabus and recurring previous-paper topic"
+    },
+    {
+      "number": 29,
+      "section": "General Awareness",
+      "topic": "Current Affairs Method",
+      "difficulty": "Medium",
+      "prompt": "For a current-affairs question, the most reliable preparation source is:",
+      "options": [
+        "unverified social post",
+        "official release and reputable news",
+        "random guess",
+        "old memory only"
+      ],
+      "answer": "official release and reputable news",
+      "explanation": "Current facts should be checked against authoritative sources.",
+      "evidence": "Syllabus and recurring previous-paper topic"
+    },
+    {
+      "number": 30,
+      "section": "General Awareness",
+      "topic": "History",
+      "difficulty": "Easy",
+      "prompt": "The Quit India Movement was launched in:",
+      "options": [
+        "1930",
+        "1942",
+        "1947",
+        "1950"
+      ],
+      "answer": "1942",
+      "explanation": "The movement began in August 1942.",
+      "evidence": "Syllabus and recurring previous-paper topic"
+    },
+    {
+      "number": 31,
+      "section": "General Awareness",
+      "topic": "Indian Polity",
+      "difficulty": "Easy",
+      "prompt": "Which Article of the Constitution deals with equality before law?",
+      "options": [
+        "Article 12",
+        "Article 14",
+        "Article 19",
+        "Article 21"
+      ],
+      "answer": "Article 14",
+      "explanation": "Article 14 guarantees equality before law and equal protection of laws.",
+      "evidence": "Syllabus and recurring previous-paper topic"
+    },
+    {
+      "number": 32,
+      "section": "General Awareness",
+      "topic": "Current Affairs Method",
+      "difficulty": "Medium",
+      "prompt": "For a current-affairs question, the most reliable preparation source is:",
+      "options": [
+        "unverified social post",
+        "official release and reputable news",
+        "random guess",
+        "old memory only"
+      ],
+      "answer": "official release and reputable news",
+      "explanation": "Current facts should be checked against authoritative sources.",
+      "evidence": "Syllabus and recurring previous-paper topic"
+    },
+    {
+      "number": 33,
+      "section": "General Awareness",
+      "topic": "Banking Awareness",
+      "difficulty": "Medium",
+      "prompt": "KYC in banking primarily means:",
+      "options": [
+        "Keep Your Cash",
+        "Know Your Customer",
+        "Key Yield Calculation",
+        "Know Your Credit"
+      ],
+      "answer": "Know Your Customer",
+      "explanation": "KYC verifies the identity and address of a customer.",
+      "evidence": "Syllabus and recurring previous-paper topic"
+    },
+    {
+      "number": 34,
+      "section": "General Awareness",
+      "topic": "History",
+      "difficulty": "Easy",
+      "prompt": "The Quit India Movement was launched in:",
+      "options": [
+        "1930",
+        "1942",
+        "1947",
+        "1950"
+      ],
+      "answer": "1942",
+      "explanation": "The movement began in August 1942.",
+      "evidence": "Syllabus and recurring previous-paper topic"
+    },
+    {
+      "number": 35,
+      "section": "General Awareness",
+      "topic": "Financial Awareness",
+      "difficulty": "Medium",
+      "prompt": "NPA in banking refers to:",
+      "options": [
+        "Net Profit Account",
+        "Non-Performing Asset",
+        "New Payment Application",
+        "National Pension Account"
+      ],
+      "answer": "Non-Performing Asset",
+      "explanation": "An NPA is a loan asset that stops generating income under regulatory rules.",
+      "evidence": "Syllabus and recurring previous-paper topic"
+    },
+    {
+      "number": 36,
+      "section": "General Awareness",
+      "topic": "Indian Polity",
+      "difficulty": "Easy",
+      "prompt": "Which Article of the Constitution deals with equality before law?",
+      "options": [
+        "Article 12",
+        "Article 14",
+        "Article 19",
+        "Article 21"
+      ],
+      "answer": "Article 14",
+      "explanation": "Article 14 guarantees equality before law and equal protection of laws.",
+      "evidence": "Syllabus and recurring previous-paper topic"
+    },
+    {
+      "number": 37,
+      "section": "General Awareness",
+      "topic": "Computer Awareness",
+      "difficulty": "Easy",
+      "prompt": "Which memory is non-volatile?",
+      "options": [
+        "RAM",
+        "Cache",
+        "ROM",
+        "Register"
+      ],
+      "answer": "ROM",
+      "explanation": "ROM retains data when power is removed.",
+      "evidence": "Syllabus and recurring previous-paper topic"
+    },
+    {
+      "number": 38,
+      "section": "General Awareness",
+      "topic": "Computer Awareness",
+      "difficulty": "Easy",
+      "prompt": "Which memory is non-volatile?",
+      "options": [
+        "RAM",
+        "Cache",
+        "ROM",
+        "Register"
+      ],
+      "answer": "ROM",
+      "explanation": "ROM retains data when power is removed.",
+      "evidence": "Syllabus and recurring previous-paper topic"
+    },
+    {
+      "number": 39,
+      "section": "General Awareness",
+      "topic": "General Science",
+      "difficulty": "Easy",
+      "prompt": "The SI unit of electric current is:",
+      "options": [
+        "volt",
+        "watt",
+        "ampere",
+        "ohm"
+      ],
+      "answer": "ampere",
+      "explanation": "Ampere is the SI unit of current.",
+      "evidence": "Syllabus and recurring previous-paper topic"
+    },
+    {
+      "number": 40,
+      "section": "General Awareness",
+      "topic": "Static GK",
+      "difficulty": "Easy",
+      "prompt": "The headquarters of the Reserve Bank of India is in:",
+      "options": [
+        "New Delhi",
+        "Mumbai",
+        "Kolkata",
+        "Chennai"
+      ],
+      "answer": "Mumbai",
+      "explanation": "RBI headquarters is in Mumbai.",
+      "evidence": "Syllabus and recurring previous-paper topic"
+    },
+    {
+      "number": 41,
+      "section": "General Awareness",
+      "topic": "Banking Awareness",
+      "difficulty": "Medium",
+      "prompt": "KYC in banking primarily means:",
+      "options": [
+        "Keep Your Cash",
+        "Know Your Customer",
+        "Key Yield Calculation",
+        "Know Your Credit"
+      ],
+      "answer": "Know Your Customer",
+      "explanation": "KYC verifies the identity and address of a customer.",
+      "evidence": "Syllabus and recurring previous-paper topic"
+    },
+    {
+      "number": 42,
+      "section": "General Awareness",
+      "topic": "Static GK",
+      "difficulty": "Easy",
+      "prompt": "The headquarters of the Reserve Bank of India is in:",
+      "options": [
+        "New Delhi",
+        "Mumbai",
+        "Kolkata",
+        "Chennai"
+      ],
+      "answer": "Mumbai",
+      "explanation": "RBI headquarters is in Mumbai.",
+      "evidence": "Syllabus and recurring previous-paper topic"
+    },
+    {
+      "number": 43,
+      "section": "General Awareness",
+      "topic": "Economy",
+      "difficulty": "Medium",
+      "prompt": "Repo rate is the rate at which:",
+      "options": [
+        "banks lend to customers",
+        "RBI lends to banks",
+        "banks lend to RBI",
+        "government lends to RBI"
+      ],
+      "answer": "RBI lends to banks",
+      "explanation": "Repo is the policy rate for RBI lending to commercial banks.",
+      "evidence": "Syllabus and recurring previous-paper topic"
+    },
+    {
+      "number": 44,
+      "section": "General Awareness",
+      "topic": "Economy",
+      "difficulty": "Medium",
+      "prompt": "Repo rate is the rate at which:",
+      "options": [
+        "banks lend to customers",
+        "RBI lends to banks",
+        "banks lend to RBI",
+        "government lends to RBI"
+      ],
+      "answer": "RBI lends to banks",
+      "explanation": "Repo is the policy rate for RBI lending to commercial banks.",
+      "evidence": "Syllabus and recurring previous-paper topic"
+    },
+    {
+      "number": 45,
+      "section": "General Awareness",
+      "topic": "Indian Polity",
+      "difficulty": "Easy",
+      "prompt": "Which Article of the Constitution deals with equality before law?",
+      "options": [
+        "Article 12",
+        "Article 14",
+        "Article 19",
+        "Article 21"
+      ],
+      "answer": "Article 14",
+      "explanation": "Article 14 guarantees equality before law and equal protection of laws.",
+      "evidence": "Syllabus and recurring previous-paper topic"
+    },
+    {
+      "number": 46,
+      "section": "General Awareness",
+      "topic": "Financial Awareness",
+      "difficulty": "Medium",
+      "prompt": "NPA in banking refers to:",
+      "options": [
+        "Net Profit Account",
+        "Non-Performing Asset",
+        "New Payment Application",
+        "National Pension Account"
+      ],
+      "answer": "Non-Performing Asset",
+      "explanation": "An NPA is a loan asset that stops generating income under regulatory rules.",
+      "evidence": "Syllabus and recurring previous-paper topic"
+    },
+    {
+      "number": 47,
+      "section": "General Awareness",
+      "topic": "History",
+      "difficulty": "Easy",
+      "prompt": "The Quit India Movement was launched in:",
+      "options": [
+        "1930",
+        "1942",
+        "1947",
+        "1950"
+      ],
+      "answer": "1942",
+      "explanation": "The movement began in August 1942.",
+      "evidence": "Syllabus and recurring previous-paper topic"
+    },
+    {
+      "number": 48,
+      "section": "General Awareness",
+      "topic": "Geography",
+      "difficulty": "Easy",
+      "prompt": "The Tropic of Cancer passes through how many Indian states?",
+      "options": [
+        "6",
+        "7",
+        "8",
+        "9"
+      ],
+      "answer": "8",
+      "explanation": "It passes through eight Indian states.",
+      "evidence": "Syllabus and recurring previous-paper topic"
+    },
+    {
+      "number": 49,
+      "section": "General Awareness",
+      "topic": "General Science",
+      "difficulty": "Easy",
+      "prompt": "The SI unit of electric current is:",
+      "options": [
+        "volt",
+        "watt",
+        "ampere",
+        "ohm"
+      ],
+      "answer": "ampere",
+      "explanation": "Ampere is the SI unit of current.",
+      "evidence": "Syllabus and recurring previous-paper topic"
+    },
+    {
+      "number": 50,
+      "section": "General Awareness",
+      "topic": "Financial Awareness",
+      "difficulty": "Medium",
+      "prompt": "NPA in banking refers to:",
+      "options": [
+        "Net Profit Account",
+        "Non-Performing Asset",
+        "New Payment Application",
+        "National Pension Account"
+      ],
+      "answer": "Non-Performing Asset",
+      "explanation": "An NPA is a loan asset that stops generating income under regulatory rules.",
+      "evidence": "Syllabus and recurring previous-paper topic"
+    },
+    {
+      "number": 51,
+      "section": "Quantitative Aptitude",
+      "topic": "Data Interpretation",
+      "difficulty": "Medium",
+      "prompt": "A shop sells 120, 150 and 180 units on three days. The average sale is:",
+      "options": [
+        "140",
+        "145",
+        "150",
+        "160"
+      ],
+      "answer": "150",
+      "explanation": "Total 450 divided by 3 equals 150.",
+      "evidence": "Syllabus and recurring previous-paper topic"
+    },
+    {
+      "number": 52,
+      "section": "Quantitative Aptitude",
+      "topic": "Ratio",
+      "difficulty": "Easy",
+      "prompt": "If A:B = 3:5 and B:C = 10:7, then A:C is:",
+      "options": [
+        "3:7",
+        "6:7",
+        "7:6",
+        "5:7"
+      ],
+      "answer": "6:7",
+      "explanation": "Make B common: 3:5 = 6:10, hence A:C = 6:7.",
+      "evidence": "Syllabus and recurring previous-paper topic"
+    },
+    {
+      "number": 53,
+      "section": "Quantitative Aptitude",
+      "topic": "Average",
+      "difficulty": "Easy",
+      "prompt": "The average of 8, 12, 15, 21 and 24 is:",
+      "options": [
+        "14",
+        "16",
+        "18",
+        "20"
+      ],
+      "answer": "16",
+      "explanation": "Sum is 80; 80/5 = 16.",
+      "evidence": "Syllabus and recurring previous-paper topic"
+    },
+    {
+      "number": 54,
+      "section": "Quantitative Aptitude",
+      "topic": "Simplification",
+      "difficulty": "Easy",
+      "prompt": "25% of 240 + 3/5 of 100 = ?",
+      "options": [
+        "100",
+        "120",
+        "140",
+        "160"
+      ],
+      "answer": "120",
+      "explanation": "25% of 240 is 60 and 3/5 of 100 is 60; total 120.",
+      "evidence": "Syllabus and recurring previous-paper topic"
+    },
+    {
+      "number": 55,
+      "section": "Quantitative Aptitude",
+      "topic": "Time and Work",
+      "difficulty": "Medium",
+      "prompt": "A can finish a task in 12 days and B in 18 days. Together they take:",
+      "options": [
+        "6 days",
+        "7 1/5 days",
+        "8 days",
+        "9 days"
+      ],
+      "answer": "7 1/5 days",
+      "explanation": "Combined rate is 1/12 + 1/18 = 5/36, so time is 36/5 days.",
+      "evidence": "Syllabus and recurring previous-paper topic"
+    },
+    {
+      "number": 56,
+      "section": "Quantitative Aptitude",
+      "topic": "Percentage",
+      "difficulty": "Medium",
+      "prompt": "A number increased by 20% becomes 360. The original number is:",
+      "options": [
+        "280",
+        "300",
+        "320",
+        "340"
+      ],
+      "answer": "300",
+      "explanation": "Original = 360/1.20 = 300.",
+      "evidence": "Syllabus and recurring previous-paper topic"
+    },
+    {
+      "number": 57,
+      "section": "Quantitative Aptitude",
+      "topic": "Simple Interest",
+      "difficulty": "Medium",
+      "prompt": "Simple interest on Rs. 5,000 at 8% per annum for 2 years is:",
+      "options": [
+        "Rs. 400",
+        "Rs. 600",
+        "Rs. 800",
+        "Rs. 900"
+      ],
+      "answer": "Rs. 800",
+      "explanation": "SI = 5000 x 8 x 2 / 100 = 800.",
+      "evidence": "Syllabus and recurring previous-paper topic"
+    },
+    {
+      "number": 58,
+      "section": "Quantitative Aptitude",
+      "topic": "Ratio",
+      "difficulty": "Easy",
+      "prompt": "If A:B = 3:5 and B:C = 10:7, then A:C is:",
+      "options": [
+        "3:7",
+        "6:7",
+        "7:6",
+        "5:7"
+      ],
+      "answer": "6:7",
+      "explanation": "Make B common: 3:5 = 6:10, hence A:C = 6:7.",
+      "evidence": "Syllabus and recurring previous-paper topic"
+    },
+    {
+      "number": 59,
+      "section": "Quantitative Aptitude",
+      "topic": "Simple Interest",
+      "difficulty": "Medium",
+      "prompt": "Simple interest on Rs. 5,000 at 8% per annum for 2 years is:",
+      "options": [
+        "Rs. 400",
+        "Rs. 600",
+        "Rs. 800",
+        "Rs. 900"
+      ],
+      "answer": "Rs. 800",
+      "explanation": "SI = 5000 x 8 x 2 / 100 = 800.",
+      "evidence": "Syllabus and recurring previous-paper topic"
+    },
+    {
+      "number": 60,
+      "section": "Quantitative Aptitude",
+      "topic": "Number Series",
+      "difficulty": "Medium",
+      "prompt": "Find the next number: 3, 7, 15, 31, 63, ?",
+      "options": [
+        "95",
+        "111",
+        "127",
+        "129"
+      ],
+      "answer": "127",
+      "explanation": "Each term is previous term x 2 + 1.",
+      "evidence": "Syllabus and recurring previous-paper topic"
+    },
+    {
+      "number": 61,
+      "section": "Quantitative Aptitude",
+      "topic": "Speed, Distance and Time",
+      "difficulty": "Medium",
+      "prompt": "A train covers 360 km in 4.5 hours. Its speed is:",
+      "options": [
+        "72 km/h",
+        "80 km/h",
+        "90 km/h",
+        "96 km/h"
+      ],
+      "answer": "80 km/h",
+      "explanation": "Speed = 360/4.5 = 80 km/h.",
+      "evidence": "Syllabus and recurring previous-paper topic"
+    },
+    {
+      "number": 62,
+      "section": "Quantitative Aptitude",
+      "topic": "Percentage",
+      "difficulty": "Medium",
+      "prompt": "A number increased by 20% becomes 360. The original number is:",
+      "options": [
+        "280",
+        "300",
+        "320",
+        "340"
+      ],
+      "answer": "300",
+      "explanation": "Original = 360/1.20 = 300.",
+      "evidence": "Syllabus and recurring previous-paper topic"
+    },
+    {
+      "number": 63,
+      "section": "Quantitative Aptitude",
+      "topic": "Profit and Loss",
+      "difficulty": "Medium",
+      "prompt": "An article bought for Rs. 800 is sold for Rs. 920. Profit percentage is:",
+      "options": [
+        "12%",
+        "15%",
+        "18%",
+        "20%"
+      ],
+      "answer": "15%",
+      "explanation": "Profit is 120; 120/800 x 100 = 15%.",
+      "evidence": "Syllabus and recurring previous-paper topic"
+    },
+    {
+      "number": 64,
+      "section": "Quantitative Aptitude",
+      "topic": "Profit and Loss",
+      "difficulty": "Medium",
+      "prompt": "An article bought for Rs. 800 is sold for Rs. 920. Profit percentage is:",
+      "options": [
+        "12%",
+        "15%",
+        "18%",
+        "20%"
+      ],
+      "answer": "15%",
+      "explanation": "Profit is 120; 120/800 x 100 = 15%.",
+      "evidence": "Syllabus and recurring previous-paper topic"
+    },
+    {
+      "number": 65,
+      "section": "Quantitative Aptitude",
+      "topic": "Time and Work",
+      "difficulty": "Medium",
+      "prompt": "A can finish a task in 12 days and B in 18 days. Together they take:",
+      "options": [
+        "6 days",
+        "7 1/5 days",
+        "8 days",
+        "9 days"
+      ],
+      "answer": "7 1/5 days",
+      "explanation": "Combined rate is 1/12 + 1/18 = 5/36, so time is 36/5 days.",
+      "evidence": "Syllabus and recurring previous-paper topic"
+    },
+    {
+      "number": 66,
+      "section": "Quantitative Aptitude",
+      "topic": "Data Interpretation",
+      "difficulty": "Medium",
+      "prompt": "A shop sells 120, 150 and 180 units on three days. The average sale is:",
+      "options": [
+        "140",
+        "145",
+        "150",
+        "160"
+      ],
+      "answer": "150",
+      "explanation": "Total 450 divided by 3 equals 150.",
+      "evidence": "Syllabus and recurring previous-paper topic"
+    },
+    {
+      "number": 67,
+      "section": "Quantitative Aptitude",
+      "topic": "Speed, Distance and Time",
+      "difficulty": "Medium",
+      "prompt": "A train covers 360 km in 4.5 hours. Its speed is:",
+      "options": [
+        "72 km/h",
+        "80 km/h",
+        "90 km/h",
+        "96 km/h"
+      ],
+      "answer": "80 km/h",
+      "explanation": "Speed = 360/4.5 = 80 km/h.",
+      "evidence": "Syllabus and recurring previous-paper topic"
+    },
+    {
+      "number": 68,
+      "section": "Quantitative Aptitude",
+      "topic": "Number Series",
+      "difficulty": "Medium",
+      "prompt": "Find the next number: 3, 7, 15, 31, 63, ?",
+      "options": [
+        "95",
+        "111",
+        "127",
+        "129"
+      ],
+      "answer": "127",
+      "explanation": "Each term is previous term x 2 + 1.",
+      "evidence": "Syllabus and recurring previous-paper topic"
+    },
+    {
+      "number": 69,
+      "section": "Quantitative Aptitude",
+      "topic": "Geometry",
+      "difficulty": "Medium",
+      "prompt": "The angles of a triangle are in the ratio 2:3:4. The largest angle is:",
+      "options": [
+        "60 degrees",
+        "70 degrees",
+        "80 degrees",
+        "90 degrees"
+      ],
+      "answer": "80 degrees",
+      "explanation": "Nine parts equal 180 degrees, so one part is 20 and the largest is 80.",
+      "evidence": "Syllabus and recurring previous-paper topic"
+    },
+    {
+      "number": 70,
+      "section": "Quantitative Aptitude",
+      "topic": "Speed, Distance and Time",
+      "difficulty": "Medium",
+      "prompt": "A train covers 360 km in 4.5 hours. Its speed is:",
+      "options": [
+        "72 km/h",
+        "80 km/h",
+        "90 km/h",
+        "96 km/h"
+      ],
+      "answer": "80 km/h",
+      "explanation": "Speed = 360/4.5 = 80 km/h.",
+      "evidence": "Syllabus and recurring previous-paper topic"
+    },
+    {
+      "number": 71,
+      "section": "Quantitative Aptitude",
+      "topic": "Quadratic Equation",
+      "difficulty": "Hard",
+      "prompt": "The positive root of x^2 - 9x + 20 = 0 is:",
+      "options": [
+        "4",
+        "5",
+        "6",
+        "8"
+      ],
+      "answer": "5",
+      "explanation": "Factors are (x-4)(x-5); positive roots are 4 and 5, and the requested larger positive root is 5.",
+      "evidence": "Syllabus and recurring previous-paper topic"
+    },
+    {
+      "number": 72,
+      "section": "Quantitative Aptitude",
+      "topic": "Quadratic Equation",
+      "difficulty": "Hard",
+      "prompt": "The positive root of x^2 - 9x + 20 = 0 is:",
+      "options": [
+        "4",
+        "5",
+        "6",
+        "8"
+      ],
+      "answer": "5",
+      "explanation": "Factors are (x-4)(x-5); positive roots are 4 and 5, and the requested larger positive root is 5.",
+      "evidence": "Syllabus and recurring previous-paper topic"
+    },
+    {
+      "number": 73,
+      "section": "Quantitative Aptitude",
+      "topic": "Simplification",
+      "difficulty": "Easy",
+      "prompt": "25% of 240 + 3/5 of 100 = ?",
+      "options": [
+        "100",
+        "120",
+        "140",
+        "160"
+      ],
+      "answer": "120",
+      "explanation": "25% of 240 is 60 and 3/5 of 100 is 60; total 120.",
+      "evidence": "Syllabus and recurring previous-paper topic"
+    },
+    {
+      "number": 74,
+      "section": "Quantitative Aptitude",
+      "topic": "Average",
+      "difficulty": "Easy",
+      "prompt": "The average of 8, 12, 15, 21 and 24 is:",
+      "options": [
+        "14",
+        "16",
+        "18",
+        "20"
+      ],
+      "answer": "16",
+      "explanation": "Sum is 80; 80/5 = 16.",
+      "evidence": "Syllabus and recurring previous-paper topic"
+    },
+    {
+      "number": 75,
+      "section": "Quantitative Aptitude",
+      "topic": "Geometry",
+      "difficulty": "Medium",
+      "prompt": "The angles of a triangle are in the ratio 2:3:4. The largest angle is:",
+      "options": [
+        "60 degrees",
+        "70 degrees",
+        "80 degrees",
+        "90 degrees"
+      ],
+      "answer": "80 degrees",
+      "explanation": "Nine parts equal 180 degrees, so one part is 20 and the largest is 80.",
+      "evidence": "Syllabus and recurring previous-paper topic"
+    },
+    {
+      "number": 76,
+      "section": "English Comprehension",
+      "topic": "Vocabulary",
+      "difficulty": "Easy",
+      "prompt": "Choose the antonym of 'ancient'.",
+      "options": [
+        "old",
+        "historic",
+        "modern",
+        "early"
+      ],
+      "answer": "modern",
+      "explanation": "Modern is the opposite of ancient.",
+      "evidence": "Syllabus and recurring previous-paper topic"
+    },
+    {
+      "number": 77,
+      "section": "English Comprehension",
+      "topic": "Sentence Improvement",
+      "difficulty": "Medium",
+      "prompt": "Improve: 'She is senior than me.'",
+      "options": [
+        "senior to me",
+        "senior from me",
+        "more senior than me",
+        "no improvement"
+      ],
+      "answer": "senior to me",
+      "explanation": "Senior is followed by 'to', not 'than'.",
+      "evidence": "Syllabus and recurring previous-paper topic"
+    },
+    {
+      "number": 78,
+      "section": "English Comprehension",
+      "topic": "Vocabulary",
+      "difficulty": "Easy",
+      "prompt": "Choose the synonym of 'abundant'.",
+      "options": [
+        "scarce",
+        "plentiful",
+        "fragile",
+        "brief"
+      ],
+      "answer": "plentiful",
+      "explanation": "Abundant means available in large quantity.",
+      "evidence": "Syllabus and recurring previous-paper topic"
+    },
+    {
+      "number": 79,
+      "section": "English Comprehension",
+      "topic": "Direct and Indirect Speech",
+      "difficulty": "Medium",
+      "prompt": "Change to indirect speech: He said, 'I am busy.'",
+      "options": [
+        "He said that I am busy.",
+        "He said that he was busy.",
+        "He says he was busy.",
+        "He said he is busy."
+      ],
+      "answer": "He said that he was busy.",
+      "explanation": "Backshift am to was and change the pronoun I to he.",
+      "evidence": "Syllabus and recurring previous-paper topic"
+    },
+    {
+      "number": 80,
+      "section": "English Comprehension",
+      "topic": "Error Spotting",
+      "difficulty": "Easy",
+      "prompt": "Choose the incorrect part: 'Neither of the answers are correct.'",
+      "options": [
+        "Neither",
+        "of the answers",
+        "are",
+        "correct"
+      ],
+      "answer": "are",
+      "explanation": "Neither takes a singular verb: 'is'.",
+      "evidence": "Syllabus and recurring previous-paper topic"
+    },
+    {
+      "number": 81,
+      "section": "English Comprehension",
+      "topic": "Reading Comprehension",
+      "difficulty": "Medium",
+      "prompt": "A passage states that regular revision improves retention. The central idea is:",
+      "options": [
+        "Revision is unnecessary.",
+        "Revision supports memory.",
+        "Only long study sessions work.",
+        "Memory cannot improve."
+      ],
+      "answer": "Revision supports memory.",
+      "explanation": "The statement directly supports the benefit of revision.",
+      "evidence": "Syllabus and recurring previous-paper topic"
+    },
+    {
+      "number": 82,
+      "section": "English Comprehension",
+      "topic": "Sentence Improvement",
+      "difficulty": "Medium",
+      "prompt": "Improve: 'She is senior than me.'",
+      "options": [
+        "senior to me",
+        "senior from me",
+        "more senior than me",
+        "no improvement"
+      ],
+      "answer": "senior to me",
+      "explanation": "Senior is followed by 'to', not 'than'.",
+      "evidence": "Syllabus and recurring previous-paper topic"
+    },
+    {
+      "number": 83,
+      "section": "English Comprehension",
+      "topic": "Active and Passive Voice",
+      "difficulty": "Medium",
+      "prompt": "Change to passive: 'The committee approved the proposal.'",
+      "options": [
+        "The proposal was approved by the committee.",
+        "The proposal is approved by the committee.",
+        "The committee was approved by the proposal.",
+        "The proposal approved the committee."
+      ],
+      "answer": "The proposal was approved by the committee.",
+      "explanation": "Simple past active changes to was/were + past participle.",
+      "evidence": "Syllabus and recurring previous-paper topic"
+    },
+    {
+      "number": 84,
+      "section": "English Comprehension",
+      "topic": "Tenses",
+      "difficulty": "Easy",
+      "prompt": "By this time tomorrow, she ___ the report.",
+      "options": [
+        "completes",
+        "completed",
+        "will have completed",
+        "has completed"
+      ],
+      "answer": "will have completed",
+      "explanation": "Future perfect describes an action completed before a future time.",
+      "evidence": "Syllabus and recurring previous-paper topic"
+    },
+    {
+      "number": 85,
+      "section": "English Comprehension",
+      "topic": "Cloze and Usage",
+      "difficulty": "Medium",
+      "prompt": "The evidence was too weak ___ support the claim.",
+      "options": [
+        "for",
+        "to",
+        "with",
+        "by"
+      ],
+      "answer": "to",
+      "explanation": "The construction is 'too + adjective + to + verb'.",
+      "evidence": "Syllabus and recurring previous-paper topic"
+    },
+    {
+      "number": 86,
+      "section": "English Comprehension",
+      "topic": "Cloze and Usage",
+      "difficulty": "Medium",
+      "prompt": "The evidence was too weak ___ support the claim.",
+      "options": [
+        "for",
+        "to",
+        "with",
+        "by"
+      ],
+      "answer": "to",
+      "explanation": "The construction is 'too + adjective + to + verb'.",
+      "evidence": "Syllabus and recurring previous-paper topic"
+    },
+    {
+      "number": 87,
+      "section": "English Comprehension",
+      "topic": "Vocabulary",
+      "difficulty": "Easy",
+      "prompt": "Choose the synonym of 'abundant'.",
+      "options": [
+        "scarce",
+        "plentiful",
+        "fragile",
+        "brief"
+      ],
+      "answer": "plentiful",
+      "explanation": "Abundant means available in large quantity.",
+      "evidence": "Syllabus and recurring previous-paper topic"
+    },
+    {
+      "number": 88,
+      "section": "English Comprehension",
+      "topic": "Reading Comprehension",
+      "difficulty": "Medium",
+      "prompt": "A passage states that regular revision improves retention. The central idea is:",
+      "options": [
+        "Revision is unnecessary.",
+        "Revision supports memory.",
+        "Only long study sessions work.",
+        "Memory cannot improve."
+      ],
+      "answer": "Revision supports memory.",
+      "explanation": "The statement directly supports the benefit of revision.",
+      "evidence": "Syllabus and recurring previous-paper topic"
+    },
+    {
+      "number": 89,
+      "section": "English Comprehension",
+      "topic": "Reading Comprehension",
+      "difficulty": "Medium",
+      "prompt": "A passage states that regular revision improves retention. The central idea is:",
+      "options": [
+        "Revision is unnecessary.",
+        "Revision supports memory.",
+        "Only long study sessions work.",
+        "Memory cannot improve."
+      ],
+      "answer": "Revision supports memory.",
+      "explanation": "The statement directly supports the benefit of revision.",
+      "evidence": "Syllabus and recurring previous-paper topic"
+    },
+    {
+      "number": 90,
+      "section": "English Comprehension",
+      "topic": "Direct and Indirect Speech",
+      "difficulty": "Medium",
+      "prompt": "Change to indirect speech: He said, 'I am busy.'",
+      "options": [
+        "He said that I am busy.",
+        "He said that he was busy.",
+        "He says he was busy.",
+        "He said he is busy."
+      ],
+      "answer": "He said that he was busy.",
+      "explanation": "Backshift am to was and change the pronoun I to he.",
+      "evidence": "Syllabus and recurring previous-paper topic"
+    },
+    {
+      "number": 91,
+      "section": "English Comprehension",
+      "topic": "Vocabulary",
+      "difficulty": "Easy",
+      "prompt": "Choose the antonym of 'ancient'.",
+      "options": [
+        "old",
+        "historic",
+        "modern",
+        "early"
+      ],
+      "answer": "modern",
+      "explanation": "Modern is the opposite of ancient.",
+      "evidence": "Syllabus and recurring previous-paper topic"
+    },
+    {
+      "number": 92,
+      "section": "English Comprehension",
+      "topic": "Error Spotting",
+      "difficulty": "Easy",
+      "prompt": "Choose the incorrect part: 'Neither of the answers are correct.'",
+      "options": [
+        "Neither",
+        "of the answers",
+        "are",
+        "correct"
+      ],
+      "answer": "are",
+      "explanation": "Neither takes a singular verb: 'is'.",
+      "evidence": "Syllabus and recurring previous-paper topic"
+    },
+    {
+      "number": 93,
+      "section": "English Comprehension",
+      "topic": "Fillers",
+      "difficulty": "Easy",
+      "prompt": "The manager insisted ___ punctuality.",
+      "options": [
+        "in",
+        "on",
+        "at",
+        "for"
+      ],
+      "answer": "on",
+      "explanation": "The correct collocation is 'insisted on'.",
+      "evidence": "Syllabus and recurring previous-paper topic"
+    },
+    {
+      "number": 94,
+      "section": "English Comprehension",
+      "topic": "Active and Passive Voice",
+      "difficulty": "Medium",
+      "prompt": "Change to passive: 'The committee approved the proposal.'",
+      "options": [
+        "The proposal was approved by the committee.",
+        "The proposal is approved by the committee.",
+        "The committee was approved by the proposal.",
+        "The proposal approved the committee."
+      ],
+      "answer": "The proposal was approved by the committee.",
+      "explanation": "Simple past active changes to was/were + past participle.",
+      "evidence": "Syllabus and recurring previous-paper topic"
+    },
+    {
+      "number": 95,
+      "section": "English Comprehension",
+      "topic": "Error Spotting",
+      "difficulty": "Easy",
+      "prompt": "Choose the incorrect part: 'Neither of the answers are correct.'",
+      "options": [
+        "Neither",
+        "of the answers",
+        "are",
+        "correct"
+      ],
+      "answer": "are",
+      "explanation": "Neither takes a singular verb: 'is'.",
+      "evidence": "Syllabus and recurring previous-paper topic"
+    },
+    {
+      "number": 96,
+      "section": "English Comprehension",
+      "topic": "Tenses",
+      "difficulty": "Easy",
+      "prompt": "By this time tomorrow, she ___ the report.",
+      "options": [
+        "completes",
+        "completed",
+        "will have completed",
+        "has completed"
+      ],
+      "answer": "will have completed",
+      "explanation": "Future perfect describes an action completed before a future time.",
+      "evidence": "Syllabus and recurring previous-paper topic"
+    },
+    {
+      "number": 97,
+      "section": "English Comprehension",
+      "topic": "Tenses",
+      "difficulty": "Easy",
+      "prompt": "By this time tomorrow, she ___ the report.",
+      "options": [
+        "completes",
+        "completed",
+        "will have completed",
+        "has completed"
+      ],
+      "answer": "will have completed",
+      "explanation": "Future perfect describes an action completed before a future time.",
+      "evidence": "Syllabus and recurring previous-paper topic"
+    },
+    {
+      "number": 98,
+      "section": "English Comprehension",
+      "topic": "Fillers",
+      "difficulty": "Easy",
+      "prompt": "The manager insisted ___ punctuality.",
+      "options": [
+        "in",
+        "on",
+        "at",
+        "for"
+      ],
+      "answer": "on",
+      "explanation": "The correct collocation is 'insisted on'.",
+      "evidence": "Syllabus and recurring previous-paper topic"
+    },
+    {
+      "number": 99,
+      "section": "English Comprehension",
+      "topic": "Fillers",
+      "difficulty": "Easy",
+      "prompt": "The manager insisted ___ punctuality.",
+      "options": [
+        "in",
+        "on",
+        "at",
+        "for"
+      ],
+      "answer": "on",
+      "explanation": "The correct collocation is 'insisted on'.",
+      "evidence": "Syllabus and recurring previous-paper topic"
+    },
+    {
+      "number": 100,
+      "section": "English Comprehension",
+      "topic": "Sentence Improvement",
+      "difficulty": "Medium",
+      "prompt": "Improve: 'She is senior than me.'",
+      "options": [
+        "senior to me",
+        "senior from me",
+        "more senior than me",
+        "no improvement"
+      ],
+      "answer": "senior to me",
+      "explanation": "Senior is followed by 'to', not 'than'.",
+      "evidence": "Syllabus and recurring previous-paper topic"
+    }
+  ],
+  "analysis_note": "Topic weighting follows the official syllabus and recurring previous-paper patterns; it is not a prediction of exact questions."
+}
