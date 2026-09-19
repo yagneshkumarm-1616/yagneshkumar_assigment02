@@ -1,0 +1,726 @@
+IBPS RRB Office Assistant (Clerk) - Prelims MODEL PAPER 5 (ANSWERED)
+========================================================================================
+Questions: 80 | Marks: 80 | Time: 45 minutes
+Negative marking: -0.25 per wrong answer
+Each question is followed by its answer and explanation.
+
+Q1. [Reasoning | Coding-Decoding | Medium]
+If BANK is coded as 2-1-14-11, how is LOAN coded using alphabet positions?
+  A) 12-15-1-14 [CORRECT]
+  B) 11-15-1-13
+  C) 12-14-1-15
+  D) 13-15-2-14
+Answer: 12-15-1-14
+Explanation: Use the alphabet position of each letter.
+----------------------------------------------------------------------------------------
+Q2. [Reasoning | Direction Sense | Easy]
+A person walks 5 km north, then 3 km east, then 5 km south. He is now:
+  A) 3 km east of start [CORRECT]
+  B) 3 km west of start
+  C) 5 km south
+  D) 8 km east
+Answer: 3 km east of start
+Explanation: North and south movements cancel.
+----------------------------------------------------------------------------------------
+Q3. [Reasoning | Series | Medium]
+Find the missing term: B, E, I, N, T, ?
+  A) Y
+  B) Z
+  C) A [CORRECT]
+  D) C
+Answer: A
+Explanation: Letter jumps are +3, +4, +5, +6, then +7 with cyclic alphabet, giving A.
+----------------------------------------------------------------------------------------
+Q4. [Reasoning | Alphabet Test | Easy]
+How many letters are between the 5th letter from the left and the 8th letter from the right?
+  A) 12
+  B) 13 [CORRECT]
+  C) 14
+  D) 15
+Answer: 13
+Explanation: The 8th from right is S; between E and S are 13 letters.
+----------------------------------------------------------------------------------------
+Q5. [Reasoning | Order and Ranking | Easy]
+In a class of 40, Meena is 12th from the top. Her rank from the bottom is:
+  A) 27th
+  B) 28th
+  C) 29th [CORRECT]
+  D) 30th
+Answer: 29th
+Explanation: Bottom rank = 40 - 12 + 1 = 29.
+----------------------------------------------------------------------------------------
+Q6. [Reasoning | Blood Relation | Easy]
+Ravi says, 'She is the daughter of the only son of my grandfather.' The woman is Ravi's:
+  A) Sister [CORRECT]
+  B) Mother
+  C) Daughter
+  D) Aunt
+Answer: Sister
+Explanation: The only son of Ravi's grandfather is Ravi's father; his daughter is Ravi's sister.
+----------------------------------------------------------------------------------------
+Q7. [Reasoning | Direction Sense | Easy]
+A person walks 5 km north, then 3 km east, then 5 km south. He is now:
+  A) 3 km east of start [CORRECT]
+  B) 3 km west of start
+  C) 5 km south
+  D) 8 km east
+Answer: 3 km east of start
+Explanation: North and south movements cancel.
+----------------------------------------------------------------------------------------
+Q8. [Reasoning | Series | Medium]
+Find the missing term: B, E, I, N, T, ?
+  A) Y
+  B) Z
+  C) A [CORRECT]
+  D) C
+Answer: A
+Explanation: Letter jumps are +3, +4, +5, +6, then +7 with cyclic alphabet, giving A.
+----------------------------------------------------------------------------------------
+Q9. [Reasoning | Series | Medium]
+Find the missing term: B, E, I, N, T, ?
+  A) Y
+  B) Z
+  C) A [CORRECT]
+  D) C
+Answer: A
+Explanation: Letter jumps are +3, +4, +5, +6, then +7 with cyclic alphabet, giving A.
+----------------------------------------------------------------------------------------
+Q10. [Reasoning | Coding-Decoding | Medium]
+If BANK is coded as 2-1-14-11, how is LOAN coded using alphabet positions?
+  A) 12-15-1-14 [CORRECT]
+  B) 11-15-1-13
+  C) 12-14-1-15
+  D) 13-15-2-14
+Answer: 12-15-1-14
+Explanation: Use the alphabet position of each letter.
+----------------------------------------------------------------------------------------
+Q11. [Reasoning | Order and Ranking | Easy]
+In a class of 40, Meena is 12th from the top. Her rank from the bottom is:
+  A) 27th
+  B) 28th
+  C) 29th [CORRECT]
+  D) 30th
+Answer: 29th
+Explanation: Bottom rank = 40 - 12 + 1 = 29.
+----------------------------------------------------------------------------------------
+Q12. [Reasoning | Syllogism | Medium]
+Statements: All pens are books. Some books are papers. Conclusions: I. Some pens are papers. II. All pens are books.
+  A) Only I follows
+  B) Only II follows [CORRECT]
+  C) Both follow
+  D) Neither follows
+Answer: Only II follows
+Explanation: The first statement directly supports II; overlap of pens and papers is not certain.
+----------------------------------------------------------------------------------------
+Q13. [Reasoning | Seating Arrangement | Hard]
+Five people P, Q, R, S and T sit in a row. P is left of Q, R is right of Q, and S is between P and Q. Who is in the middle?
+  A) P
+  B) Q
+  C) R
+  D) S [CORRECT]
+Answer: S
+Explanation: The order is P-S-Q-R with T at an end; S occupies the central position among the constrained four.
+----------------------------------------------------------------------------------------
+Q14. [Reasoning | Inequality | Easy]
+If P > Q = R >= S, which is definitely true?
+  A) P < S
+  B) P > S [CORRECT]
+  C) Q < S
+  D) R > P
+Answer: P > S
+Explanation: P is greater than Q and Q is at least S, so P is greater than S.
+----------------------------------------------------------------------------------------
+Q15. [Reasoning | Seating Arrangement | Hard]
+Five people P, Q, R, S and T sit in a row. P is left of Q, R is right of Q, and S is between P and Q. Who is in the middle?
+  A) P
+  B) Q
+  C) R
+  D) S [CORRECT]
+Answer: S
+Explanation: The order is P-S-Q-R with T at an end; S occupies the central position among the constrained four.
+----------------------------------------------------------------------------------------
+Q16. [Reasoning | Inequality | Easy]
+If P > Q = R >= S, which is definitely true?
+  A) P < S
+  B) P > S [CORRECT]
+  C) Q < S
+  D) R > P
+Answer: P > S
+Explanation: P is greater than Q and Q is at least S, so P is greater than S.
+----------------------------------------------------------------------------------------
+Q17. [Reasoning | Syllogism | Medium]
+Statements: All pens are books. Some books are papers. Conclusions: I. Some pens are papers. II. All pens are books.
+  A) Only I follows
+  B) Only II follows [CORRECT]
+  C) Both follow
+  D) Neither follows
+Answer: Only II follows
+Explanation: The first statement directly supports II; overlap of pens and papers is not certain.
+----------------------------------------------------------------------------------------
+Q18. [Reasoning | Order and Ranking | Easy]
+In a class of 40, Meena is 12th from the top. Her rank from the bottom is:
+  A) 27th
+  B) 28th
+  C) 29th [CORRECT]
+  D) 30th
+Answer: 29th
+Explanation: Bottom rank = 40 - 12 + 1 = 29.
+----------------------------------------------------------------------------------------
+Q19. [Reasoning | Inequality | Easy]
+If P > Q = R >= S, which is definitely true?
+  A) P < S
+  B) P > S [CORRECT]
+  C) Q < S
+  D) R > P
+Answer: P > S
+Explanation: P is greater than Q and Q is at least S, so P is greater than S.
+----------------------------------------------------------------------------------------
+Q20. [Reasoning | Syllogism | Medium]
+Statements: All pens are books. Some books are papers. Conclusions: I. Some pens are papers. II. All pens are books.
+  A) Only I follows
+  B) Only II follows [CORRECT]
+  C) Both follow
+  D) Neither follows
+Answer: Only II follows
+Explanation: The first statement directly supports II; overlap of pens and papers is not certain.
+----------------------------------------------------------------------------------------
+Q21. [Reasoning | Direction Sense | Easy]
+A person walks 5 km north, then 3 km east, then 5 km south. He is now:
+  A) 3 km east of start [CORRECT]
+  B) 3 km west of start
+  C) 5 km south
+  D) 8 km east
+Answer: 3 km east of start
+Explanation: North and south movements cancel.
+----------------------------------------------------------------------------------------
+Q22. [Reasoning | Inequality | Easy]
+If P > Q = R >= S, which is definitely true?
+  A) P < S
+  B) P > S [CORRECT]
+  C) Q < S
+  D) R > P
+Answer: P > S
+Explanation: P is greater than Q and Q is at least S, so P is greater than S.
+----------------------------------------------------------------------------------------
+Q23. [Reasoning | Alphabet Test | Easy]
+How many letters are between the 5th letter from the left and the 8th letter from the right?
+  A) 12
+  B) 13 [CORRECT]
+  C) 14
+  D) 15
+Answer: 13
+Explanation: The 8th from right is S; between E and S are 13 letters.
+----------------------------------------------------------------------------------------
+Q24. [Reasoning | Alphabet Test | Easy]
+How many letters are between the 5th letter from the left and the 8th letter from the right?
+  A) 12
+  B) 13 [CORRECT]
+  C) 14
+  D) 15
+Answer: 13
+Explanation: The 8th from right is S; between E and S are 13 letters.
+----------------------------------------------------------------------------------------
+Q25. [Reasoning | Seating Arrangement | Hard]
+Five people P, Q, R, S and T sit in a row. P is left of Q, R is right of Q, and S is between P and Q. Who is in the middle?
+  A) P
+  B) Q
+  C) R
+  D) S [CORRECT]
+Answer: S
+Explanation: The order is P-S-Q-R with T at an end; S occupies the central position among the constrained four.
+----------------------------------------------------------------------------------------
+Q26. [Reasoning | Coding-Decoding | Medium]
+If BANK is coded as 2-1-14-11, how is LOAN coded using alphabet positions?
+  A) 12-15-1-14 [CORRECT]
+  B) 11-15-1-13
+  C) 12-14-1-15
+  D) 13-15-2-14
+Answer: 12-15-1-14
+Explanation: Use the alphabet position of each letter.
+----------------------------------------------------------------------------------------
+Q27. [Reasoning | Analogy | Easy]
+Book : Read :: Food : ?
+  A) Cook
+  B) Eat [CORRECT]
+  C) Serve
+  D) Buy
+Answer: Eat
+Explanation: A book is read; food is eaten.
+----------------------------------------------------------------------------------------
+Q28. [Reasoning | Seating Arrangement | Hard]
+Five people P, Q, R, S and T sit in a row. P is left of Q, R is right of Q, and S is between P and Q. Who is in the middle?
+  A) P
+  B) Q
+  C) R
+  D) S [CORRECT]
+Answer: S
+Explanation: The order is P-S-Q-R with T at an end; S occupies the central position among the constrained four.
+----------------------------------------------------------------------------------------
+Q29. [Reasoning | Blood Relation | Easy]
+Ravi says, 'She is the daughter of the only son of my grandfather.' The woman is Ravi's:
+  A) Sister [CORRECT]
+  B) Mother
+  C) Daughter
+  D) Aunt
+Answer: Sister
+Explanation: The only son of Ravi's grandfather is Ravi's father; his daughter is Ravi's sister.
+----------------------------------------------------------------------------------------
+Q30. [Reasoning | Order and Ranking | Easy]
+In a class of 40, Meena is 12th from the top. Her rank from the bottom is:
+  A) 27th
+  B) 28th
+  C) 29th [CORRECT]
+  D) 30th
+Answer: 29th
+Explanation: Bottom rank = 40 - 12 + 1 = 29.
+----------------------------------------------------------------------------------------
+Q31. [Reasoning | Coding-Decoding | Medium]
+If BANK is coded as 2-1-14-11, how is LOAN coded using alphabet positions?
+  A) 12-15-1-14 [CORRECT]
+  B) 11-15-1-13
+  C) 12-14-1-15
+  D) 13-15-2-14
+Answer: 12-15-1-14
+Explanation: Use the alphabet position of each letter.
+----------------------------------------------------------------------------------------
+Q32. [Reasoning | Alphabet Test | Easy]
+How many letters are between the 5th letter from the left and the 8th letter from the right?
+  A) 12
+  B) 13 [CORRECT]
+  C) 14
+  D) 15
+Answer: 13
+Explanation: The 8th from right is S; between E and S are 13 letters.
+----------------------------------------------------------------------------------------
+Q33. [Reasoning | Blood Relation | Easy]
+Ravi says, 'She is the daughter of the only son of my grandfather.' The woman is Ravi's:
+  A) Sister [CORRECT]
+  B) Mother
+  C) Daughter
+  D) Aunt
+Answer: Sister
+Explanation: The only son of Ravi's grandfather is Ravi's father; his daughter is Ravi's sister.
+----------------------------------------------------------------------------------------
+Q34. [Reasoning | Analogy | Easy]
+Book : Read :: Food : ?
+  A) Cook
+  B) Eat [CORRECT]
+  C) Serve
+  D) Buy
+Answer: Eat
+Explanation: A book is read; food is eaten.
+----------------------------------------------------------------------------------------
+Q35. [Reasoning | Series | Medium]
+Find the missing term: B, E, I, N, T, ?
+  A) Y
+  B) Z
+  C) A [CORRECT]
+  D) C
+Answer: A
+Explanation: Letter jumps are +3, +4, +5, +6, then +7 with cyclic alphabet, giving A.
+----------------------------------------------------------------------------------------
+Q36. [Reasoning | Analogy | Easy]
+Book : Read :: Food : ?
+  A) Cook
+  B) Eat [CORRECT]
+  C) Serve
+  D) Buy
+Answer: Eat
+Explanation: A book is read; food is eaten.
+----------------------------------------------------------------------------------------
+Q37. [Reasoning | Direction Sense | Easy]
+A person walks 5 km north, then 3 km east, then 5 km south. He is now:
+  A) 3 km east of start [CORRECT]
+  B) 3 km west of start
+  C) 5 km south
+  D) 8 km east
+Answer: 3 km east of start
+Explanation: North and south movements cancel.
+----------------------------------------------------------------------------------------
+Q38. [Reasoning | Syllogism | Medium]
+Statements: All pens are books. Some books are papers. Conclusions: I. Some pens are papers. II. All pens are books.
+  A) Only I follows
+  B) Only II follows [CORRECT]
+  C) Both follow
+  D) Neither follows
+Answer: Only II follows
+Explanation: The first statement directly supports II; overlap of pens and papers is not certain.
+----------------------------------------------------------------------------------------
+Q39. [Reasoning | Analogy | Easy]
+Book : Read :: Food : ?
+  A) Cook
+  B) Eat [CORRECT]
+  C) Serve
+  D) Buy
+Answer: Eat
+Explanation: A book is read; food is eaten.
+----------------------------------------------------------------------------------------
+Q40. [Reasoning | Blood Relation | Easy]
+Ravi says, 'She is the daughter of the only son of my grandfather.' The woman is Ravi's:
+  A) Sister [CORRECT]
+  B) Mother
+  C) Daughter
+  D) Aunt
+Answer: Sister
+Explanation: The only son of Ravi's grandfather is Ravi's father; his daughter is Ravi's sister.
+----------------------------------------------------------------------------------------
+Q41. [Numerical Ability | Profit and Loss | Medium]
+An article bought for Rs. 800 is sold for Rs. 920. Profit percentage is:
+  A) 12%
+  B) 15% [CORRECT]
+  C) 18%
+  D) 20%
+Answer: 15%
+Explanation: Profit is 120; 120/800 x 100 = 15%.
+----------------------------------------------------------------------------------------
+Q42. [Numerical Ability | Simple Interest | Medium]
+Simple interest on Rs. 5,000 at 8% per annum for 2 years is:
+  A) Rs. 400
+  B) Rs. 600
+  C) Rs. 800 [CORRECT]
+  D) Rs. 900
+Answer: Rs. 800
+Explanation: SI = 5000 x 8 x 2 / 100 = 800.
+----------------------------------------------------------------------------------------
+Q43. [Numerical Ability | Quadratic Equation | Hard]
+The positive root of x^2 - 9x + 20 = 0 is:
+  A) 4
+  B) 5 [CORRECT]
+  C) 6
+  D) 8
+Answer: 5
+Explanation: Factors are (x-4)(x-5); positive roots are 4 and 5, and the requested larger positive root is 5.
+----------------------------------------------------------------------------------------
+Q44. [Numerical Ability | Percentage | Medium]
+A number increased by 20% becomes 360. The original number is:
+  A) 280
+  B) 300 [CORRECT]
+  C) 320
+  D) 340
+Answer: 300
+Explanation: Original = 360/1.20 = 300.
+----------------------------------------------------------------------------------------
+Q45. [Numerical Ability | Quadratic Equation | Hard]
+The positive root of x^2 - 9x + 20 = 0 is:
+  A) 4
+  B) 5 [CORRECT]
+  C) 6
+  D) 8
+Answer: 5
+Explanation: Factors are (x-4)(x-5); positive roots are 4 and 5, and the requested larger positive root is 5.
+----------------------------------------------------------------------------------------
+Q46. [Numerical Ability | Simplification | Easy]
+25% of 240 + 3/5 of 100 = ?
+  A) 100
+  B) 120 [CORRECT]
+  C) 140
+  D) 160
+Answer: 120
+Explanation: 25% of 240 is 60 and 3/5 of 100 is 60; total 120.
+----------------------------------------------------------------------------------------
+Q47. [Numerical Ability | Ratio | Easy]
+If A:B = 3:5 and B:C = 10:7, then A:C is:
+  A) 3:7
+  B) 6:7 [CORRECT]
+  C) 7:6
+  D) 5:7
+Answer: 6:7
+Explanation: Make B common: 3:5 = 6:10, hence A:C = 6:7.
+----------------------------------------------------------------------------------------
+Q48. [Numerical Ability | Simplification | Easy]
+25% of 240 + 3/5 of 100 = ?
+  A) 100
+  B) 120 [CORRECT]
+  C) 140
+  D) 160
+Answer: 120
+Explanation: 25% of 240 is 60 and 3/5 of 100 is 60; total 120.
+----------------------------------------------------------------------------------------
+Q49. [Numerical Ability | Time and Work | Medium]
+A can finish a task in 12 days and B in 18 days. Together they take:
+  A) 6 days
+  B) 7 1/5 days [CORRECT]
+  C) 8 days
+  D) 9 days
+Answer: 7 1/5 days
+Explanation: Combined rate is 1/12 + 1/18 = 5/36, so time is 36/5 days.
+----------------------------------------------------------------------------------------
+Q50. [Numerical Ability | Data Interpretation | Medium]
+A shop sells 120, 150 and 180 units on three days. The average sale is:
+  A) 140
+  B) 145
+  C) 150 [CORRECT]
+  D) 160
+Answer: 150
+Explanation: Total 450 divided by 3 equals 150.
+----------------------------------------------------------------------------------------
+Q51. [Numerical Ability | Profit and Loss | Medium]
+An article bought for Rs. 800 is sold for Rs. 920. Profit percentage is:
+  A) 12%
+  B) 15% [CORRECT]
+  C) 18%
+  D) 20%
+Answer: 15%
+Explanation: Profit is 120; 120/800 x 100 = 15%.
+----------------------------------------------------------------------------------------
+Q52. [Numerical Ability | Ratio | Easy]
+If A:B = 3:5 and B:C = 10:7, then A:C is:
+  A) 3:7
+  B) 6:7 [CORRECT]
+  C) 7:6
+  D) 5:7
+Answer: 6:7
+Explanation: Make B common: 3:5 = 6:10, hence A:C = 6:7.
+----------------------------------------------------------------------------------------
+Q53. [Numerical Ability | Time and Work | Medium]
+A can finish a task in 12 days and B in 18 days. Together they take:
+  A) 6 days
+  B) 7 1/5 days [CORRECT]
+  C) 8 days
+  D) 9 days
+Answer: 7 1/5 days
+Explanation: Combined rate is 1/12 + 1/18 = 5/36, so time is 36/5 days.
+----------------------------------------------------------------------------------------
+Q54. [Numerical Ability | Percentage | Medium]
+A number increased by 20% becomes 360. The original number is:
+  A) 280
+  B) 300 [CORRECT]
+  C) 320
+  D) 340
+Answer: 300
+Explanation: Original = 360/1.20 = 300.
+----------------------------------------------------------------------------------------
+Q55. [Numerical Ability | Ratio | Easy]
+If A:B = 3:5 and B:C = 10:7, then A:C is:
+  A) 3:7
+  B) 6:7 [CORRECT]
+  C) 7:6
+  D) 5:7
+Answer: 6:7
+Explanation: Make B common: 3:5 = 6:10, hence A:C = 6:7.
+----------------------------------------------------------------------------------------
+Q56. [Numerical Ability | Speed, Distance and Time | Medium]
+A train covers 360 km in 4.5 hours. Its speed is:
+  A) 72 km/h
+  B) 80 km/h [CORRECT]
+  C) 90 km/h
+  D) 96 km/h
+Answer: 80 km/h
+Explanation: Speed = 360/4.5 = 80 km/h.
+----------------------------------------------------------------------------------------
+Q57. [Numerical Ability | Quadratic Equation | Hard]
+The positive root of x^2 - 9x + 20 = 0 is:
+  A) 4
+  B) 5 [CORRECT]
+  C) 6
+  D) 8
+Answer: 5
+Explanation: Factors are (x-4)(x-5); positive roots are 4 and 5, and the requested larger positive root is 5.
+----------------------------------------------------------------------------------------
+Q58. [Numerical Ability | Speed, Distance and Time | Medium]
+A train covers 360 km in 4.5 hours. Its speed is:
+  A) 72 km/h
+  B) 80 km/h [CORRECT]
+  C) 90 km/h
+  D) 96 km/h
+Answer: 80 km/h
+Explanation: Speed = 360/4.5 = 80 km/h.
+----------------------------------------------------------------------------------------
+Q59. [Numerical Ability | Time and Work | Medium]
+A can finish a task in 12 days and B in 18 days. Together they take:
+  A) 6 days
+  B) 7 1/5 days [CORRECT]
+  C) 8 days
+  D) 9 days
+Answer: 7 1/5 days
+Explanation: Combined rate is 1/12 + 1/18 = 5/36, so time is 36/5 days.
+----------------------------------------------------------------------------------------
+Q60. [Numerical Ability | Ratio | Easy]
+If A:B = 3:5 and B:C = 10:7, then A:C is:
+  A) 3:7
+  B) 6:7 [CORRECT]
+  C) 7:6
+  D) 5:7
+Answer: 6:7
+Explanation: Make B common: 3:5 = 6:10, hence A:C = 6:7.
+----------------------------------------------------------------------------------------
+Q61. [Numerical Ability | Percentage | Medium]
+A number increased by 20% becomes 360. The original number is:
+  A) 280
+  B) 300 [CORRECT]
+  C) 320
+  D) 340
+Answer: 300
+Explanation: Original = 360/1.20 = 300.
+----------------------------------------------------------------------------------------
+Q62. [Numerical Ability | Simple Interest | Medium]
+Simple interest on Rs. 5,000 at 8% per annum for 2 years is:
+  A) Rs. 400
+  B) Rs. 600
+  C) Rs. 800 [CORRECT]
+  D) Rs. 900
+Answer: Rs. 800
+Explanation: SI = 5000 x 8 x 2 / 100 = 800.
+----------------------------------------------------------------------------------------
+Q63. [Numerical Ability | Time and Work | Medium]
+A can finish a task in 12 days and B in 18 days. Together they take:
+  A) 6 days
+  B) 7 1/5 days [CORRECT]
+  C) 8 days
+  D) 9 days
+Answer: 7 1/5 days
+Explanation: Combined rate is 1/12 + 1/18 = 5/36, so time is 36/5 days.
+----------------------------------------------------------------------------------------
+Q64. [Numerical Ability | Average | Easy]
+The average of 8, 12, 15, 21 and 24 is:
+  A) 14
+  B) 16 [CORRECT]
+  C) 18
+  D) 20
+Answer: 16
+Explanation: Sum is 80; 80/5 = 16.
+----------------------------------------------------------------------------------------
+Q65. [Numerical Ability | Geometry | Medium]
+The angles of a triangle are in the ratio 2:3:4. The largest angle is:
+  A) 60 degrees
+  B) 70 degrees
+  C) 80 degrees [CORRECT]
+  D) 90 degrees
+Answer: 80 degrees
+Explanation: Nine parts equal 180 degrees, so one part is 20 and the largest is 80.
+----------------------------------------------------------------------------------------
+Q66. [Numerical Ability | Profit and Loss | Medium]
+An article bought for Rs. 800 is sold for Rs. 920. Profit percentage is:
+  A) 12%
+  B) 15% [CORRECT]
+  C) 18%
+  D) 20%
+Answer: 15%
+Explanation: Profit is 120; 120/800 x 100 = 15%.
+----------------------------------------------------------------------------------------
+Q67. [Numerical Ability | Number Series | Medium]
+Find the next number: 3, 7, 15, 31, 63, ?
+  A) 95
+  B) 111
+  C) 127 [CORRECT]
+  D) 129
+Answer: 127
+Explanation: Each term is previous term x 2 + 1.
+----------------------------------------------------------------------------------------
+Q68. [Numerical Ability | Simplification | Easy]
+25% of 240 + 3/5 of 100 = ?
+  A) 100
+  B) 120 [CORRECT]
+  C) 140
+  D) 160
+Answer: 120
+Explanation: 25% of 240 is 60 and 3/5 of 100 is 60; total 120.
+----------------------------------------------------------------------------------------
+Q69. [Numerical Ability | Number Series | Medium]
+Find the next number: 3, 7, 15, 31, 63, ?
+  A) 95
+  B) 111
+  C) 127 [CORRECT]
+  D) 129
+Answer: 127
+Explanation: Each term is previous term x 2 + 1.
+----------------------------------------------------------------------------------------
+Q70. [Numerical Ability | Speed, Distance and Time | Medium]
+A train covers 360 km in 4.5 hours. Its speed is:
+  A) 72 km/h
+  B) 80 km/h [CORRECT]
+  C) 90 km/h
+  D) 96 km/h
+Answer: 80 km/h
+Explanation: Speed = 360/4.5 = 80 km/h.
+----------------------------------------------------------------------------------------
+Q71. [Numerical Ability | Average | Easy]
+The average of 8, 12, 15, 21 and 24 is:
+  A) 14
+  B) 16 [CORRECT]
+  C) 18
+  D) 20
+Answer: 16
+Explanation: Sum is 80; 80/5 = 16.
+----------------------------------------------------------------------------------------
+Q72. [Numerical Ability | Average | Easy]
+The average of 8, 12, 15, 21 and 24 is:
+  A) 14
+  B) 16 [CORRECT]
+  C) 18
+  D) 20
+Answer: 16
+Explanation: Sum is 80; 80/5 = 16.
+----------------------------------------------------------------------------------------
+Q73. [Numerical Ability | Number Series | Medium]
+Find the next number: 3, 7, 15, 31, 63, ?
+  A) 95
+  B) 111
+  C) 127 [CORRECT]
+  D) 129
+Answer: 127
+Explanation: Each term is previous term x 2 + 1.
+----------------------------------------------------------------------------------------
+Q74. [Numerical Ability | Data Interpretation | Medium]
+A shop sells 120, 150 and 180 units on three days. The average sale is:
+  A) 140
+  B) 145
+  C) 150 [CORRECT]
+  D) 160
+Answer: 150
+Explanation: Total 450 divided by 3 equals 150.
+----------------------------------------------------------------------------------------
+Q75. [Numerical Ability | Data Interpretation | Medium]
+A shop sells 120, 150 and 180 units on three days. The average sale is:
+  A) 140
+  B) 145
+  C) 150 [CORRECT]
+  D) 160
+Answer: 150
+Explanation: Total 450 divided by 3 equals 150.
+----------------------------------------------------------------------------------------
+Q76. [Numerical Ability | Geometry | Medium]
+The angles of a triangle are in the ratio 2:3:4. The largest angle is:
+  A) 60 degrees
+  B) 70 degrees
+  C) 80 degrees [CORRECT]
+  D) 90 degrees
+Answer: 80 degrees
+Explanation: Nine parts equal 180 degrees, so one part is 20 and the largest is 80.
+----------------------------------------------------------------------------------------
+Q77. [Numerical Ability | Geometry | Medium]
+The angles of a triangle are in the ratio 2:3:4. The largest angle is:
+  A) 60 degrees
+  B) 70 degrees
+  C) 80 degrees [CORRECT]
+  D) 90 degrees
+Answer: 80 degrees
+Explanation: Nine parts equal 180 degrees, so one part is 20 and the largest is 80.
+----------------------------------------------------------------------------------------
+Q78. [Numerical Ability | Speed, Distance and Time | Medium]
+A train covers 360 km in 4.5 hours. Its speed is:
+  A) 72 km/h
+  B) 80 km/h [CORRECT]
+  C) 90 km/h
+  D) 96 km/h
+Answer: 80 km/h
+Explanation: Speed = 360/4.5 = 80 km/h.
+----------------------------------------------------------------------------------------
+Q79. [Numerical Ability | Simple Interest | Medium]
+Simple interest on Rs. 5,000 at 8% per annum for 2 years is:
+  A) Rs. 400
+  B) Rs. 600
+  C) Rs. 800 [CORRECT]
+  D) Rs. 900
+Answer: Rs. 800
+Explanation: SI = 5000 x 8 x 2 / 100 = 800.
+----------------------------------------------------------------------------------------
+Q80. [Numerical Ability | Average | Easy]
+The average of 8, 12, 15, 21 and 24 is:
+  A) 14
+  B) 16 [CORRECT]
+  C) 18
+  D) 20
+Answer: 16
+Explanation: Sum is 80; 80/5 = 16.
+----------------------------------------------------------------------------------------
